@@ -11,9 +11,7 @@ Free Appropriate Sustainability Technology (FAST) Research Group
 
   
 **Lecturer (_March, 2020 to Present_)**
-
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ 
-
 Department of Electrical and Electronic Engineering 
 
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
@@ -23,9 +21,8 @@ Department of Electrical and Electronic Engineering
 - Member of accreditation and self-assessment report (SAR) committee.
 - Routine Coordinator. (Summer 2021)
 
-- 
+
 **Industrial Trainee (_May 2018 to June 2018_)**
-  
 _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
 
 - Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
