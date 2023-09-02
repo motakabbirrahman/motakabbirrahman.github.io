@@ -4,21 +4,21 @@ Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electri
 His research interests include photovoltaic energy and power electronics focusing on the open source nanogrid design and control. During his undergraduate studies he worked on the maximum power tracking of solar cells using different neural networks and hybrid techniques. He believes that one-day solar power will dominate the field of electrical power generation, which is currently contributing only about 3% of overall electricity generation worldwide. 
 
 ## Education
-**[Pursuing] Masters in Engineering Science (MESc.) in Electrical and Computer Engineering (_September, 2022-August 2024_)** <br/>
+**[Pursuing] Masters in Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
 Western University, London, Ontario, Canada <br/>
 
-**Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering (_January 2015 – September 2019_)** <br/>
+**Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering** (_January 2015 – September 2019_)<br/>
 Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh<br/> 
 Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
-**Graduate Research Assistant (_September, 2022 to Present_)** <br/>
+**Graduate Research Assistant** (_September, 2022 to Present_) <br/>
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
 - Open-source DC nano grid design
 - Application specific PV system design <br/>
 
-**Lecturer (_March, 2020 to Present_)** 
+**Lecturer** (_March, 2020 to Present_)
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
 Department of Electrical and Electronic Engineering
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
@@ -28,7 +28,7 @@ Department of Electrical and Electronic Engineering
 - Member of accreditation and self-assessment report (SAR) committee.
 - Routine Coordinator. (Summer 2021) <br/>
 
-**Industrial Trainee (_May 2018 to June 2018_)** 
+**Industrial Trainee** (_May 2018 to June 2018_) 
 _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
 - Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
 - Operating servo motor driver, vector driver and Inverter control using PLC.
