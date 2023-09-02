@@ -1,3 +1,4 @@
+<br/>
 <img src="/files/img/DSC08310.jpg" alt="Your image title" width="250"/>
 
 ## Biography
