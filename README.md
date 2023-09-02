@@ -44,6 +44,8 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 1. Maryam Mottaghi, **Motakabbir Rahman**, Apoorv Kulkarni, Joshua M. Pearce, AC/off-grid photovoltaic powered open-source ball mill,_HardwareX_, Volume 14, 2023,e00423,ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2023.e00423
 2. **Rahman, M. M**., & Islam, M. S. (2020). PSO and ANN Based Hybrid MPPT Algorithm  for Photovoltaic Array under Partial Shading Condition. _Engineering  International_, 8(1), 9-24. https://doi.org/10.18034/ei.v8i1.481
 3. Islam, M. S., Sultana, S., & **Rahman, M. M**.  (2019). Protection of Power System during Cyber-Attack using Artificial  Neural Network. _Engineering International_, 7(2),  73-84. https://doi.org/10.18034/ei.v7i2.478
+
+   
 **Conference Papers**
 1. S. Khan and **M. M. Rahman**, "Design and  Simulation of Solar DC Nano Grid System from Bangladesh Perspective," _2021  International Conference on Automation, Control and Mechatronics for Industry  4.0 (ACMI)_, 2021, pp. 1-6, https://doi.org/10.1109/ACMI53878.2021.9528159
 2.**M. M. Rahman** and M. S. Islam, "Artificial Neural Network Based Maximum Power  Point Tracking of a Photovoltaic System," _2019 3rd International  Conference on Electrical, Computer & Telecommunication Engineering  (ICECTE)_, Rajshahi, Bangladesh, 2019, pp. 117-120, https://doi.org/10.1109/ICECTE48615.2019.9303531
