@@ -3,13 +3,13 @@ Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electri
 ### Research Interest
 His research interests include photovoltaic energy and power electronics focusing on the open source nanogrid design and control. During his undergraduate studies he worked on the maximum power tracking of solar cells using different neural networks and hybrid techniques. He believes that one-day solar power will dominate the field of electrical power generation, which is currently contributing only about 3% of overall electricity generation worldwide. 
 ### Work Experience 
-#### Graduate Research Assistant (September, 2022 to Present)
-Western University, London, Ontario, Canada 
+#### Graduate Research Assistant (_September, 2022 to Present_)
+**Western University, London, Ontario, Canada**
 Free Appropriate Sustainability Technology (FAST) Research Group 
 - Open-source DC nano grid design
 - Application specific PV system design
-#### Lecturer (March, 2020 to Present)
-Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh 
+#### Lecturer (_March, 2020 to Present_)
+**Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh** 
 Department of Electrical and Electronic Engineering 
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
 - Lab-in-charge of Electronic Circuit Laboratory.
@@ -17,8 +17,8 @@ Department of Electrical and Electronic Engineering
 - Vice president of BAUET Automation and Robotics Society (Sep. 2021 -Sep 2022)
 - Member of accreditation and self-assessment report (SAR) committee.
 - Routine Coordinator. (Summer 2021)
-#### Industrial Trainee (7th May 2018 to 24th May, 2018)
-Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh
+#### Industrial Trainee (_May 2018 to June 2018_)
+**Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh**
 - Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
 - Operating servo motor driver, vector driver and Inverter control using PLC.
 - IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing.
