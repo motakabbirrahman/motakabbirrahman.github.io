@@ -11,8 +11,7 @@ Western University, London, Ontario, Canada
 **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering (_January 2015 – September 2019_)**
 
 Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh 
-
-**Dissertation:** Neural network based maximum power point tracking of a photovoltaic system.
+Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._
 
 ## Work Experience 
 **Graduate Research Assistant (_September, 2022 to Present_)**
