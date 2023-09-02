@@ -4,15 +4,11 @@ Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electri
 His research interests include photovoltaic energy and power electronics focusing on the open source nanogrid design and control. During his undergraduate studies he worked on the maximum power tracking of solar cells using different neural networks and hybrid techniques. He believes that one-day solar power will dominate the field of electrical power generation, which is currently contributing only about 3% of overall electricity generation worldwide. 
 
 ## Education
-**[Pursuing] Masters in Engineering Science (MESc.) in Electrical and Computer Engineering (_September, 2022-August 2024_)**
-
+**[Pursuing] Masters in Engineering Science (MESc.) in Electrical and Computer Engineering (_September, 2022-August 2024_)** <br/>
 Western University, London, Ontario, Canada
-
-**Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering (_January 2015 – September 2019_)**
-
-Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh 
-
-Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._
+**Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering (_January 2015 – September 2019_)** <br/>
+Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh<br/> 
+Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
 **Graduate Research Assistant (_September, 2022 to Present_)**
