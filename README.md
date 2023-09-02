@@ -14,12 +14,12 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 ## Work Experience 
 **Graduate Research Assistant (_September, 2022 to Present_)** <br/>
 _Western University, London, Ontario, Canada_ <br/>
-Free Appropriate Sustainability Technology (FAST) Research Group <br/>
+Free Appropriate Sustainability Technology (FAST) Research Group 
 - Open-source DC nano grid design
 - Application specific PV system design <br/>
   **Lecturer (_March, 2020 to Present_)** <br/>
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
-Department of Electrical and Electronic Engineering <br/>
+Department of Electrical and Electronic Engineering
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
 - Lab-in-charge of Electronic Circuit Laboratory.
 - Student Coordinator of EEE Batch 11 (32 students)
@@ -27,7 +27,7 @@ Department of Electrical and Electronic Engineering <br/>
 - Member of accreditation and self-assessment report (SAR) committee.
 - Routine Coordinator. (Summer 2021) <br/>
 **Industrial Trainee (_May 2018 to June 2018_)** <br/>
-_Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_ <br/>
+_Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
 - Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
 - Operating servo motor driver, vector driver and Inverter control using PLC.
 - IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing.
