@@ -12,7 +12,7 @@ Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Banglades
 Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
-**Graduate Research Assistant (_September, 2022 to Present_)** <br/>
+**Graduate Research Assistant (_September, 2022 to Present_)** 
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
 - Open-source DC nano grid design
