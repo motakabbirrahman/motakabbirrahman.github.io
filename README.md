@@ -12,21 +12,15 @@ Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Banglades
 Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
-**Graduate Research Assistant (_September, 2022 to Present_)**
-
-_Western University, London, Ontario, Canada_
-
-Free Appropriate Sustainability Technology (FAST) Research Group 
+**Graduate Research Assistant (_September, 2022 to Present_)** <br/>
+_Western University, London, Ontario, Canada_ <br/>
+Free Appropriate Sustainability Technology (FAST) Research Group <br/>
 - Open-source DC nano grid design
 - Application specific PV system design
-
   
-**Lecturer (_March, 2020 to Present_)**
-
-_Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ 
-
-Department of Electrical and Electronic Engineering 
-
+**Lecturer (_March, 2020 to Present_)** <br/>
+_Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
+Department of Electrical and Electronic Engineering <br/>
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
 - Lab-in-charge of Electronic Circuit Laboratory.
 - Student Coordinator of EEE Batch 11 (32 students)
@@ -34,11 +28,8 @@ Department of Electrical and Electronic Engineering
 - Member of accreditation and self-assessment report (SAR) committee.
 - Routine Coordinator. (Summer 2021)
 
-
-**Industrial Trainee (_May 2018 to June 2018_)**
-
-_Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
-
+**Industrial Trainee (_May 2018 to June 2018_)** <br/>
+_Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_ <br/>
 - Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
 - Operating servo motor driver, vector driver and Inverter control using PLC.
 - IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing.
@@ -46,48 +37,41 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - 32kV/11kV substation and control room of 15kV diesel and gas power plant visit
 
 ## Technical Skills
-
-**Coding languages:** _MATLAB, C and Arduino IDE._
-**PCB design:** _KiCAD, SMD soldering, converter and inverter design and control_ 
-**PV related software:** _Simulink, PVsyst, HOMER, SAM_ 
-**3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_
-**Other software:** _PSim, Proteus, Quartus Prime, Microsoft office, Microsoft Visio, Adobe Photoshop._
+**Coding languages:** _MATLAB, C and Arduino IDE._ <br/>
+**PCB design:** _KiCAD, SMD soldering, converter and inverter design and control_ <br/>
+**PV related software:** _Simulink, PVsyst, HOMER, SAM_ <br/>
+**3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_ <br/>
+**Other software:** _PSim, Proteus, Quartus Prime, Microsoft office, Microsoft Visio, Adobe Photoshop._ <br/>
 
 ## Projects
 ### Completed in 2023
 #### _Open-source Inverter (500VA)_
-![Open-source Inverter (500VA)](/files/img/Inverter500VA.jpg)
-
-An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, within the cost of 200 CAD.
-
+![Open-source Inverter (500VA)](/files/img/Inverter500VA.jpg) <br/>
+An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, within the cost of 200 CAD. <br/>
 - 60Hz 120V pure AC supply
 - Open source hardware and encloser
 - Over current and over temperature protection,
 - High efficiency, low harmonic and low cost
 
 #### _Open-source Maximum Power Point Tracker (30A, 24V)_
-![Open-source MPPT (30A, 24V))](/files/img/MPPT30A,24V.jpg)
-
-An open source MPPT of 30A,24V designed within the cost of 120 CAD which is poised not only to rival existing market products in terms of price but also to surpass them in certain advanced features such as:
-    
+![Open-source MPPT (30A, 24V))](/files/img/MPPT30A,24V.jpg) <br/>
+An open source MPPT of 30A,24V designed within the cost of 120 CAD which is poised not only to rival existing market products in terms of price but also to surpass them in certain advanced features such as: <br/>
 - Features an LCD menu interface with customizable settings and display layouts.
-- Offers WiFi connectivity through the blynk app for telemetry purposes.
+- Offers WiFi connectivity through the blynk app for telemetry purposes. 
 - Includes built-in protection mechanisms against over current, over voltage, PV short circuit, and battery reverse polarity.
 - Equipped with temperature protection and a cooling fan to prevent overheating.
 
 ### Completed in 2022
 #### _AC/off-grid photovoltaic powered open-source ball mill_
-![Open-source Ball Mill](/files/img/Ga-bottleroller.jpg)
-
-The open-source ball mill is fully customizable and designed to be fabricated with distributed manufacturing. The parametric designs of the main components are 3-D printable on a low-cost readily accessible RepRap-class fused filament 3-D printer, and the electronic parts, bearings, magnets, and balls are provided by a wide-range of of-the-shelf vendors. 
-
+![Open-source Ball Mill](/files/img/Ga-bottleroller.jpg) <br/>
+The open-source ball mill is fully customizable and designed to be fabricated with distributed manufacturing. The parametric designs of the main components are 3-D printable on a low-cost readily accessible RepRap-class fused filament 3-D printer, and the electronic parts, bearings, magnets, and balls are provided by a wide-range of of-the-shelf vendors. <br/>
 - The highly-customizable design of ball mill reduces the cost to <US$130 for an AC powered version and <US$315 for a switchable power that enables off-grid operation with a solar module and battery.
 - The open-source ball mill is capable of reducing silicon particle sizes from the millimeter scale down to the nanometer scale.
 - The open-source ball mill is also made with standard dimensions to work effectively and has been demonstrated to grind silicon particles from waste PV modules from 0.8 mm to 7 µm in 18 h.
 
 ### Completed in 2021
-#### _Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective_
-![DC Nano Grid System](/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg)
+#### _Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective_ 
+![DC Nano Grid System](/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg) <br/>
 
 This research project proposes a model of DC Nano grid integrated with solar PV module which can supply electricity to up to 20 households at a distance of about 1 km.
 
