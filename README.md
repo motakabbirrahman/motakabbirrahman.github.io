@@ -4,11 +4,8 @@ Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electri
 His research interests include photovoltaic energy and power electronics focusing on the open source nanogrid design and control. During his undergraduate studies he worked on the maximum power tracking of solar cells using different neural networks and hybrid techniques. He believes that one-day solar power will dominate the field of electrical power generation, which is currently contributing only about 3% of overall electricity generation worldwide. 
 ## Work Experience 
 **Graduate Research Assistant (_September, 2022 to Present_)**
-
 _Western University, London, Ontario, Canada_
-
 Free Appropriate Sustainability Technology (FAST) Research Group 
-
 - Open-source DC nano grid design
 - Application specific PV system design
 
