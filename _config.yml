@@ -1,4 +1,11 @@
 title: Md Motakabbir Rahman
-#logo: /files/img/DSC08310.jpg
-#description: An Electrical Engineer with expertise in open-source DC grid design, photovoltaic energy, and power electronics. Seeking to contribute to solar PV designs.
+logo: /files/img/DSC08310.jpg
+description: An Electrical Engineer with expertise in open-source DC grid design, photovoltaic energy, and power electronics. Seeking to contribute to solar PV designs.
+Technical Skill:
+Coding languages: MATLAB, C and Arduino IDE.
+PCB design: KiCAD, SMD soldering, converter and inverter design and control 
+PV related software: Simulink, PVsyst, HOMER, SAM 
+3D printing: FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+
+Other software: PSim, Proteus, Quartus Prime, Microsoft office, Microsoft Visio, Adobe Photoshop.
+
 theme: jekyll-theme-minimal
