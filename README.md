@@ -6,23 +6,23 @@ His research interests include photovoltaic energy and power electronics focusin
 #### Graduate Research Assistant (September, 2022 to Present)
 Western University, London, Ontario, Canada 
 Free Appropriate Sustainability Technology (FAST) Research Group 
--Open-source DC nano grid design
--Application specific PV system design
+- Open-source DC nano grid design
+- Application specific PV system design
 #### Lecturer (March, 2020 to Present)
 Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh 
 Department of Electrical and Electronic Engineering 
--Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
--Lab-in-charge of Electronic Circuit Laboratory.
--Student Coordinator of EEE Batch 11 (32 students)
--Vice president of BAUET Automation and Robotics Society (Sep. 2021 -Sep 2022)
--Member of accreditation and self-assessment report (SAR) committee.
--Routine Coordinator. (Summer 2021)
+- Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
+- Lab-in-charge of Electronic Circuit Laboratory.
+- Student Coordinator of EEE Batch 11 (32 students)
+- Vice president of BAUET Automation and Robotics Society (Sep. 2021 -Sep 2022)
+- Member of accreditation and self-assessment report (SAR) committee.
+- Routine Coordinator. (Summer 2021)
 #### Industrial Trainee (7th May 2018 to 24th May, 2018)
 Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh
--Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
--Operating servo motor driver, vector driver and Inverter control using PLC.
--IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing.
--Production process and assembly line monitoring LED Bulb.
--32kV/11kV substation and control room of 15kV diesel and gas power plant visit
+- Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
+- Operating servo motor driver, vector driver and Inverter control using PLC.
+- IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing.
+- Production process and assembly line monitoring LED Bulb.
+- 32kV/11kV substation and control room of 15kV diesel and gas power plant visit
 
 ### Projects
