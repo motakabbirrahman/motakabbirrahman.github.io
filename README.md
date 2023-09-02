@@ -48,6 +48,13 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - Production process and assembly line monitoring LED Bulb.
 - 32kV/11kV substation and control room of 15kV diesel and gas power plant visit
 
+## Technical Skills
+
+**Coding languages:** _MATLAB, C and Arduino IDE._
+**PCB design:** _KiCAD, SMD soldering, converter and inverter design and control_ 
+**PV related software:** _Simulink, PVsyst, HOMER, SAM_ 
+**3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_
+**Other software:** _PSim, Proteus, Quartus Prime, Microsoft office, Microsoft Visio, Adobe Photoshop._
 
 ## Projects
 ### Completed in 2023
