@@ -74,7 +74,7 @@ The open-source ball mill is fully customizable and designed to be fabricated wi
 
 ### Completed in 2021
 #### _Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective_ 
-<img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="center" alt="DC Nano Grid System"  width="400"/> <br/>
+<img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="center" alt="DC Nano Grid System"  width="400"/>
 This research project proposes a model of DC Nano grid integrated with solar PV module which can supply electricity to up to 20 households at a distance of about 1 km. 
 - Solar DC Nano grid can be a possible approach towards achieving electrification to certain areas where grid connectivity is still unavailable.
 - It can generate and distribute power to a cluster of households at close proximity reliably.
