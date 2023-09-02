@@ -91,7 +91,7 @@ Most of the conventional MPPT methods fail to track maximum power under partial 
 
 ### Completed in 2019
 #### _Protection of Power System during Cyber-Attack using Artificial Neural Network_
-<img src="/files/img/Paper_2.jpg" alt="Protection of Power System during Cyber-Attack" align="center" width="400"/> <br/>
+<img src="/files/img/Paper_2.jpg" align="center" alt="Protection of Power System during Cyber-Attack" width="400"/> <br/>
 Impacts of frequency and voltage disturbance on an isolated power system caused by cyber-attack has been discussed and a neural network-based protective approach has been proposed in this research work.
 - Adaptive PID controllers for both load frequency control and automatic voltage regulator have been implemented using an artificial neural network-oriented by genetic algorithm.
 - The parameters of the PID controller have been tuned offline by using a genetic algorithm over a wide range of system parameter variations. These data have been used to train the neural network.
