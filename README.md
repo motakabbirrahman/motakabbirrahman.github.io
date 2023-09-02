@@ -38,6 +38,15 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 
 
 ## Projects
+### Completed in 2023
+#### Open-source Inverter (500VA)
+![Open-source Inverter (500VA)](/files/img/Inverter500VA.jpg)
+An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, within the cost of 200 CAD.
+
+- 60Hz 120V pure AC supply
+- Open source hardware and encloser
+- Over current and over temperature protection,
+- High efficiency, low harmonic and low cost
 
 ## Selected Publications
 **Journals**
