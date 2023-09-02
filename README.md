@@ -83,7 +83,7 @@ This research project proposes a model of DC Nano grid integrated with solar PV 
 
 ### Completed in 2020
 #### _PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition_
-<img src="/files/img/Representation_of_Partial_Shading_Situation_in_PV_Array.jpg" align="center" alt="PSO and ANN Based Hybrid MPPT Algorithm" width="400"/> 
+<img src="/files/img/Representation_of_Partial_Shading_Situation_in_PV_Array.jpg" align="left" alt="PSO and ANN Based Hybrid MPPT Algorithm" width="400"/> 
 Most of the conventional MPPT methods fail to track maximum power under partial shading condition (PSC). Partial shading is the most common situation in PV power generation, which is caused if part of the series-connected strings is partially shaded. This situation leads to the multiple peaks in the P-V characteristics curve of the PV system.
 - Stochastic search method, Particle Swarm Optimization (PSO), is used instead of the conventional methods to track maximum power under PSC. But the PSO method has the limitation of slow operation.
 - So in this project, a fast hybrid method is presented, which combines the PSO method with the ANN method.
