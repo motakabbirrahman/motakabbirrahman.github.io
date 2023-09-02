@@ -74,7 +74,7 @@ The open-source ball mill is fully customizable and designed to be fabricated wi
 
 ### Completed in 2021
 #### _Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective_ 
-<img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="center" alt="DC Nano Grid System"  width="400"/>
+<img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="left" alt="DC Nano Grid System"  width="400"/>
 This research project proposes a model of DC Nano grid integrated with solar PV module which can supply electricity to up to 20 households at a distance of about 1 km. 
 - Solar DC Nano grid can be a possible approach towards achieving electrification to certain areas where grid connectivity is still unavailable.
 - It can generate and distribute power to a cluster of households at close proximity reliably.
@@ -91,7 +91,7 @@ Most of the conventional MPPT methods fail to track maximum power under partial 
 
 ### Completed in 2019
 #### _Protection of Power System during Cyber-Attack using Artificial Neural Network_
-<img src="/files/img/Paper_2.jpg" align="center" alt="Protection of Power System during Cyber-Attack" width="400"/> 
+<img src="/files/img/Paper_2.jpg" align="left" alt="Protection of Power System during Cyber-Attack" width="400"/> 
 Impacts of frequency and voltage disturbance on an isolated power system caused by cyber-attack has been discussed and a neural network-based protective approach has been proposed in this research work.
 - Adaptive PID controllers for both load frequency control and automatic voltage regulator have been implemented using an artificial neural network-oriented by genetic algorithm.
 - The parameters of the PID controller have been tuned offline by using a genetic algorithm over a wide range of system parameter variations. These data have been used to train the neural network.
@@ -99,7 +99,7 @@ Impacts of frequency and voltage disturbance on an isolated power system caused 
 - For the automatic voltage regulator, neural network tuned PID controller mitigate voltage disturbance 70% faster than manually tuned PID during cyber-attack. <br/>
 
 #### _Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System_
-<img src="/files/img/Ann_based_MPPT.jpg" align="center" alt="ANN based MPPT" width="400"/> 
+<img src="/files/img/Ann_based_MPPT.jpg" align="left" alt="ANN based MPPT" width="400"/> 
 Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets. 
 - This paper presents three ANN based MPPT methods: Direct ANN, Cascaded ANN and the proposed Hybrid method.
 - The ANN's are trained using training data set of maximum power point voltages (VMPP ) from a user defined PV array over different environmental conditions. <br/>
