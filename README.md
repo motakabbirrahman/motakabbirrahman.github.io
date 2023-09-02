@@ -51,7 +51,8 @@ An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, wi
 - 60Hz 120V pure AC supply
 - Open source hardware and encloser
 - Over current and over temperature protection,
-- High efficiency, low harmonic and low cost <br/>
+- High efficiency, low harmonic and low cost
+  
 #### _Open-source Maximum Power Point Tracker (30A, 24V)_
 ![Open-source MPPT (30A, 24V))](/files/img/MPPT30A,24V.jpg) 
 An open source MPPT of 30A,24V designed within the cost of 120 CAD which is poised not only to rival existing market products in terms of price but also to surpass them in certain advanced features such as: 
