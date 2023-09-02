@@ -49,7 +49,7 @@ An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, wi
 - Over current and over temperature protection,
 - High efficiency, low harmonic and low cost
 
-#### _ Open-source Maximum Power Point Tracker (30A, 24V)_
+#### _Open-source Maximum Power Point Tracker (30A, 24V)_
 ![Open-source MPPT (30A, 24V))](/files/img/MPPT30A,24V.jpg)
 
 An open source MPPT of 30A,24V designed within the cost of 120 CAD which is poised not only to rival existing market products in terms of price but also to surpass them in certain advanced features such as:
@@ -102,7 +102,7 @@ Impacts of frequency and voltage disturbance on an isolated power system caused 
 - For load frequency control neural network tuned PID controller mitigate frequency disturbance 48% faster than manually tuned PID.
 - For the automatic voltage regulator, neural network tuned PID controller mitigate voltage disturbance 70% faster than manually tuned PID during cyber-attack.
 
-#### _Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System _
+#### _Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System_
 ![ANN based MPPT](/files/img/Ann_based_MPPT.jpg)
 
 Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets.
