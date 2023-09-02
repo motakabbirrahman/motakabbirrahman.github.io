@@ -5,7 +5,7 @@ His research interests include photovoltaic energy and power electronics focusin
 
 ## Education
 **[Pursuing] Masters in Engineering Science (MESc.) in Electrical and Computer Engineering (_September, 2022-August 2024_)** <br/>
-Western University, London, Ontario, Canada<br/>
+Western University, London, Ontario, Canada <br/>
 
 **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering (_January 2015 – September 2019_)** <br/>
 Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh<br/> 
