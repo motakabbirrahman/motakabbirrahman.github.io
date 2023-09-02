@@ -5,6 +5,7 @@ His research interests include photovoltaic energy and power electronics focusin
 ## Work Experience 
 **Graduate Research Assistant (_September, 2022 to Present_)**
 _Western University, London, Ontario, Canada_
+
 Free Appropriate Sustainability Technology (FAST) Research Group 
 - Open-source DC nano grid design
 - Application specific PV system design
@@ -12,6 +13,7 @@ Free Appropriate Sustainability Technology (FAST) Research Group
   
 **Lecturer (_March, 2020 to Present_)**
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ 
+
 Department of Electrical and Electronic Engineering 
 
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
