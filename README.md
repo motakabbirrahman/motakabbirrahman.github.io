@@ -1,7 +1,5 @@
-<br/>
-<img src="/files/img/DSC08310.jpg" alt="Your image title" width="250"/>
-
 ## Biography
+<img src="/files/img/DSC08310.jpg" align="right" alt="Your image title" width="250"/>
 Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from  [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. He has been working as a lecturer at [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/) since March 2020 (Now on study leave). He is currently working toward MESc. degree at the department of Electrical & Computer Engineering in [Western University](https://www.uwo.ca), London, Ontario, Canada, which is one of the prestigious and top-ranked universities in the world. He is also a member of Free Appropriate Sustainability Technology (FAST) research group, which focuses on the use of open source appropriate technology (OSAT) to find collaborative solutions to problems in sustainability and to reduce poverty under supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce).
 ## Research Interest
 His research interests include photovoltaic energy and power electronics focusing on the open source nanogrid design and control. During his undergraduate studies he worked on the maximum power tracking of solar cells using different neural networks and hybrid techniques. He believes that one-day solar power will dominate the field of electrical power generation, which is currently contributing only about 3% of overall electricity generation worldwide. 
