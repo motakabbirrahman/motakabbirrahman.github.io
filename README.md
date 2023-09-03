@@ -13,13 +13,13 @@ Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Banglades
 Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
-**Graduate Research Assistant** (_September, 2022 to Present_) <br/>
+**[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to Present_) <br/>
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
 - Open-source DC nano grid design
 - Application specific PV system design <br/>
 
-**Lecturer** (_March, 2020 to Present_) <br/>
+**[Lecturer](https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/)** (_March, 2020 to Present_) <br/>
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
 Department of Electrical and Electronic Engineering
 - Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
