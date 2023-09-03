@@ -111,3 +111,16 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 **Conference Papers**
 1. S. Khan and **M. M. Rahman**, "Design and  Simulation of Solar DC Nano Grid System from Bangladesh Perspective," _2021  International Conference on Automation, Control and Mechatronics for Industry  4.0 (ACMI)_, 2021, pp. 1-6, https://doi.org/10.1109/ACMI53878.2021.9528159
 2. **M. M. Rahman** and M. S. Islam, "Artificial Neural Network Based Maximum Power  Point Tracking of a Photovoltaic System," _2019 3rd International  Conference on Electrical, Computer & Telecommunication Engineering  (ICECTE)_, Rajshahi, Bangladesh, 2019, pp. 117-120, https://doi.org/10.1109/ICECTE48615.2019.9303531 <br/>
+
+## Organizations
+ <div class="row">
+  <div class="column">
+    <img src="FAST logo.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="FAST logo.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="FAST logo.png" alt="Mountains" style="width:100%">
+  </div>
+</div> 
