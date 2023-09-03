@@ -113,14 +113,8 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 2. **M. M. Rahman** and M. S. Islam, "Artificial Neural Network Based Maximum Power  Point Tracking of a Photovoltaic System," _2019 3rd International  Conference on Electrical, Computer & Telecommunication Engineering  (ICECTE)_, Rajshahi, Bangladesh, 2019, pp. 117-120, https://doi.org/10.1109/ICECTE48615.2019.9303531 <br/>
 
 ## Organizations
- <div class="row">
-  <div class="column">
+<p float="left">
     <img src="/files/img/FAST logo.png" alt="FAST" width="100"/>
-  </div>
-  <div class="column">
     <img src="/files/img/FAST logo.png" alt="FAST" width="100"/>
-  </div>
-  <div class="column">
     <img src="/files/img/FAST logo.png" alt="FAST" width="100"/>
-  </div>
-</div> 
+</p>
