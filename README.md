@@ -116,5 +116,4 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 <p float="left">
     <img src="/files/img/FAST logo.png" alt="FAST" width="100" />
     <img src="/files/img/BAUET_logo.jpg" alt="BAUET" width="100" />
-    <img src="/files/img/FAST logo.png" alt="FAST" width="100" />
 </p>
