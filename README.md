@@ -115,12 +115,12 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 ## Organizations
  <div class="row">
   <div class="column">
-    <img src="FAST logo.png" alt="Snow" style="width:100%">
+    <img src="/files/img/FAST logo.png" alt="FAST" style="width:100%">
   </div>
   <div class="column">
-    <img src="FAST logo.png" alt="Forest" style="width:100%">
+    <img src="/files/img/FAST logo.png" alt="Forest" style="width:100%">
   </div>
   <div class="column">
-    <img src="FAST logo.png" alt="Mountains" style="width:100%">
+    <img src="/files/img/FAST logo.png" alt="Mountains" style="width:100%">
   </div>
 </div> 
