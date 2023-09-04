@@ -68,7 +68,15 @@ An open source MPPT of 30A,24V designed within the cost of 120 CAD which is pois
 The open-source ball mill is fully customizable and designed to be fabricated with distributed manufacturing. The parametric designs of the main components are 3-D printable on a low-cost readily accessible RepRap-class fused filament 3-D printer, and the electronic parts, bearings, magnets, and balls are provided by a wide-range of of-the-shelf vendors. 
 - The highly-customizable design of ball mill reduces the cost to <US$130 for an AC powered version and <US$315 for a switchable power that enables off-grid operation with a solar module and battery.
 - The open-source ball mill is capable of reducing silicon particle sizes from the millimeter scale down to the nanometer scale.
-- The open-source ball mill is also made with standard dimensions to work effectively and has been demonstrated to grind silicon particles from waste PV modules from 0.8 mm to 7 µm in 18 h.
+- The open-source ball mill is also made with standard dimensions to work effectively and has been demonstrated to grind silicon particles from waste PV modules from 0.8 mm to 7 µm in 18 h. <br/>
+
+#### _Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid_
+![DAB Inverter](/files/img/DAB+Inverter.jpg) 
+The background of this project is to modify the existing DC nano grid by designing the interface between the nano grid and AC network. The idea is to supply energy to the AC grid when the nano grid is in power surplus mode. 
+- In this project, the DAB cascaded with inverter topology has been designed which can be attached to a DC grid system as an interface with AC grid.
+- Selection of transformer specifications, leakage inductance and conversion ratio in order to achieve ZVS operation for a wide range and reducing switching losses in dual active bridge converter.Hence, this DAB inverter has high efficiency.
+- Designing the filters for the grid connected inverter and integrate it with the DAB.
+- The simulations showed that, the DC capacitor voltage is maintained within the ZVS range in order ensure soft switching with a wide range of phase shift.
 
 ### Completed in 2021
 #### _Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective_ 
