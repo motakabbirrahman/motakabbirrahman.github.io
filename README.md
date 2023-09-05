@@ -79,7 +79,7 @@ The background of this project is to modify the existing DC nano grid by designi
 - The simulations showed that, the DC capacitor voltage is maintained within the ZVS range in order ensure soft switching with a wide range of phase shift.
 
 ### Completed in 2021
-#### _Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective_ 
+#### _[Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective](https://ieeexplore.ieee.org/document/9528159)_ 
 <img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="right" alt="DC Nano Grid System"  width="350"/>
 This research project proposes a model of DC Nano grid integrated with solar PV module which can supply electricity to up to 20 households at a distance of about 1 km. 
 - Solar DC Nano grid can be a possible approach towards achieving electrification to certain areas where grid connectivity is still unavailable.
@@ -88,7 +88,7 @@ This research project proposes a model of DC Nano grid integrated with solar PV 
 - The cost estimation is presented of the proposed model.
 
 ### Completed in 2020
-#### _PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition_
+#### _[PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition](https://abc.us.org/ojs/index.php/ei/article/view/481)_
 <img src="/files/img/Representation_of_Partial_Shading_Situation_in_PV_Array.jpg" align="right" alt="PSO and ANN Based Hybrid MPPT Algorithm" width="350"/> 
 Most of the conventional MPPT methods fail to track maximum power under partial shading condition (PSC). Partial shading is the most common situation in PV power generation, which is caused if part of the series-connected strings is partially shaded. This situation leads to the multiple peaks in the P-V characteristics curve of the PV system.
 - Stochastic search method, Particle Swarm Optimization (PSO), is used instead of the conventional methods to track maximum power under PSC. But the PSO method has the limitation of slow operation.
@@ -96,7 +96,7 @@ Most of the conventional MPPT methods fail to track maximum power under partial 
 - In this hybrid method, the ANN enables the existing PSO method to track MPP quickly by providing more accurate initial particle positions of the PSO algorithm. <br/>
 
 ### Completed in 2019
-#### _Protection of Power System during Cyber-Attack using Artificial Neural Network_
+#### _[Protection of Power System during Cyber-Attack using Artificial Neural Network](https://abc.us.org/ojs/index.php/ei/article/view/478)_
 <img src="/files/img/Paper_2.jpg" align="right" alt="Protection of Power System during Cyber-Attack" width="350"/> 
 Impacts of frequency and voltage disturbance on an isolated power system caused by cyber-attack has been discussed and a neural network-based protective approach has been proposed in this research work.
 - Adaptive PID controllers for both load frequency control and automatic voltage regulator have been implemented using an artificial neural network-oriented by genetic algorithm.
@@ -104,7 +104,7 @@ Impacts of frequency and voltage disturbance on an isolated power system caused 
 - For load frequency control neural network tuned PID controller mitigate frequency disturbance 48% faster than manually tuned PID.
 - For the automatic voltage regulator, neural network tuned PID controller mitigate voltage disturbance 70% faster than manually tuned PID during cyber-attack. <br/>
 
-#### _Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System_
+#### _[Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System](https://ieeexplore.ieee.org/abstract/document/9303531)_
 <img src="/files/img/Ann_based_MPPT.jpg" align="right" alt="ANN based MPPT" width="350"/> 
 Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets. 
 - This paper presents three ANN based MPPT methods: Direct ANN, Cascaded ANN and the proposed Hybrid method.
