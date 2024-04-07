@@ -57,11 +57,12 @@ Parametric Energy Management System (EMS): Dynamically selects operational modes
 - Open Sharing of Design Specifications: Fosters continuous improvement to meet evolving energy challenges.
   
 ### Completed in 2023
-####_Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
+#### _Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
 The study system in this project comprises a 10kW PV solar system operating as a PV STATCOM connected to a 208V L-L distributing system.
 - Verification of the voltage control performance of PV STATCOM in response to sudden load changes under various scenarios using MATLAB/Simulink
 - The system is capable of rapidly exchange dynamic reactive power within 1-2 cycles and supply rated reactive current even at reduced voltage.
 - Additionally, provided detailed information about the design of the PV STATCOM controller and guidelines for modeling the system in Simulink environment.
+
 #### _Open-source Inverter (500VA)_
 ![Open-source Inverter (500VA)](/files/img/Inverter500VA.jpg) 
 An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, within the cost of 200 CAD. 
