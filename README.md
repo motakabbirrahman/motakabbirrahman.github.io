@@ -45,7 +45,23 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 **Other software:** _PSim, Proteus, Quartus Prime, Microsoft office, Microsoft Visio, Adobe Photoshop._ <br/>
 
 ## Projects
+### Completed in 2024
+#### _Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System_
+![Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](/files/img/DC Nano grid Research Poster.png) 
+This research presents a modular open-source solar photovoltaic (PV)-powered DC nanogrid system designed for sustainable and accessible off-grid power solutions, particularly in remote and isolated areas. By combining DIY PV technology with batteries, users can generate, store, and utilize electricity, reducing reliance on traditional grid infrastructure and promoting energy independence.
+- Modular Open-Source Design: Customizable for diverse applications.    DIY Approach: Empowers users to assemble and install their PV systems.
+- DC Power Supply: Supplies DC power to loads at varying voltage levels.
+Parametric Energy Management System (EMS): Dynamically selects operational modes for efficiency.
+- Simulation Validation: Confirms effectiveness in coordinating PV-battery system.
+- Customizable Solution: Adaptable for different DC voltages, power levels, and battery backup requirements.
+- Open Sharing of Design Specifications: Fosters continuous improvement to meet evolving energy challenges.
+  
 ### Completed in 2023
+####_Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
+The study system in this project comprises a 10kW PV solar system operating as a PV STATCOM connected to a 208V L-L distributing system.
+- Verification of the voltage control performance of PV STATCOM in response to sudden load changes under various scenarios using MATLAB/Simulink
+- The system is capable of rapidly exchange dynamic reactive power within 1-2 cycles and supply rated reactive current even at reduced voltage.
+- Additionally, provided detailed information about the design of the PV STATCOM controller and guidelines for modeling the system in Simulink environment.
 #### _Open-source Inverter (500VA)_
 ![Open-source Inverter (500VA)](/files/img/Inverter500VA.jpg) 
 An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, within the cost of 200 CAD. 
