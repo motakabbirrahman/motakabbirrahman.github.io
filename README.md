@@ -46,7 +46,7 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 
 ## Projects
 ### Completed in 2024
-#### _Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System_
+#### _[Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169)_
 ![Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](/files/img/DC Nano grid Research Poster.png) 
 This research presents a modular open-source solar photovoltaic (PV)-powered DC nanogrid system designed for sustainable and accessible off-grid power solutions, particularly in remote and isolated areas. By combining DIY PV technology with batteries, users can generate, store, and utilize electricity, reducing reliance on traditional grid infrastructure and promoting energy independence.
 - Modular Open-Source Design: Customizable for diverse applications.    DIY Approach: Empowers users to assemble and install their PV systems.
