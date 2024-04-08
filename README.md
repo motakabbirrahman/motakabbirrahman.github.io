@@ -55,6 +55,15 @@ Parametric Energy Management System (EMS): Dynamically selects operational modes
 - Simulation Validation: Confirms effectiveness in coordinating PV-battery system.
 - Customizable Solution: Adaptable for different DC voltages, power levels, and battery backup requirements.
 - Open Sharing of Design Specifications: Fosters continuous improvement to meet evolving energy challenges.
+
+#### _HVDC-VSC black start capability in coordination with grid forming solar farm_
+![HVDC-VSC black start capability in coordination with grid forming solar farm](/files/img/Black start capability HVDC-VSC in coordination with grid forming solar farms.png) 
+The study underscores the importance of grid-forming inverters for enhancing grid resilience, particularly during black start operations following power outages.
+- The research highlights the significance of grid-forming inverters in autonomously establishing frequency and voltage, making them suitable for black start operations and system recovery.
+- The study explores integrating grid-forming solar farms with HVDC networks to enhance black start capability, leveraging modular multilevel converters (MMC) for efficient energy transmission.
+- A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations, ensuring a systematic restoration process.
+- PSCAD simulations validate the effectiveness of the proposed black start strategy, demonstrating successful system restoration facilitated by grid-forming solar farms and HVDC technology.
+- The study identifies avenues for future research, including variations in load conditions, fault scenarios, and automation of blackout detection for improved system reliability and efficiency.
   
 ### Completed in 2023
 #### _Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
