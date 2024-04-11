@@ -147,6 +147,10 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 1. S. Khan and **M. M. Rahman**, "Design and  Simulation of Solar DC Nano Grid System from Bangladesh Perspective," _2021  International Conference on Automation, Control and Mechatronics for Industry  4.0 (ACMI)_, 2021, pp. 1-6, https://doi.org/10.1109/ACMI53878.2021.9528159
 2. **M. M. Rahman** and M. S. Islam, "Artificial Neural Network Based Maximum Power  Point Tracking of a Photovoltaic System," _2019 3rd International  Conference on Electrical, Computer & Telecommunication Engineering  (ICECTE)_, Rajshahi, Bangladesh, 2019, pp. 117-120, https://doi.org/10.1109/ICECTE48615.2019.9303531 <br/>
 
+## Awards and Honours 
+- Hydro One Scholarship 2024, awarded for the academic achievement and contributions to Power Systems Engineering at Western University.
+- Student of the Year award for the academic year 2018-2019, having attained the highest CGPA of 4.00/4.00 in the fourth year of Bachelor's degree among 120 students at Rajshahi University of Engineering and Technology (RUET).
+
 ## Organizations
 <p float="left">
     <a href="https://www.appropedia.org/User:Motakabbir"><img src="/files/img/FAST logo.png" alt="FAST" width="100" /><a/>
