@@ -139,9 +139,10 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 
 ## Selected Publications
 **Journals**
-1. Maryam Mottaghi, **Motakabbir Rahman**, Apoorv Kulkarni, Joshua M. Pearce, AC/off-grid photovoltaic powered open-source ball mill,_HardwareX_, Volume 14, 2023,e00423,ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2023.e00423
-2. **Rahman, M. M**., & Islam, M. S. (2020). PSO and ANN Based Hybrid MPPT Algorithm  for Photovoltaic Array under Partial Shading Condition. _Engineering  International_, 8(1), 9-24. https://doi.org/10.18034/ei.v8i1.481
-3. Islam, M. S., Sultana, S., & **Rahman, M. M**.  (2019). Protection of Power System during Cyber-Attack using Artificial  Neural Network. _Engineering International_, 7(2),  73-84. https://doi.org/10.18034/ei.v7i2.478
+1. **M. M. Rahman** and J. Pearce, “Modular Open Source Solar Photovoltaic-Powered DC Nanogrids with Efficient Energy Management System,” Solar Energy and Sustainable Development Journal, vol. 13, no. 1, Art. no. 1, Feb. 2024, doi: 10.51646/jsesd.v13i1.169.
+2. Maryam Mottaghi, **Motakabbir Rahman**, Apoorv Kulkarni, Joshua M. Pearce, AC/off-grid photovoltaic powered open-source ball mill,_HardwareX_, Volume 14, 2023,e00423,ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2023.e00423
+3. **Rahman, M. M**., & Islam, M. S. (2020). PSO and ANN Based Hybrid MPPT Algorithm  for Photovoltaic Array under Partial Shading Condition. _Engineering  International_, 8(1), 9-24. https://doi.org/10.18034/ei.v8i1.481
+4. Islam, M. S., Sultana, S., & **Rahman, M. M**.  (2019). Protection of Power System during Cyber-Attack using Artificial  Neural Network. _Engineering International_, 7(2),  73-84. https://doi.org/10.18034/ei.v7i2.478
    
 **Conference Papers**
 1. S. Khan and **M. M. Rahman**, "Design and  Simulation of Solar DC Nano Grid System from Bangladesh Perspective," _2021  International Conference on Automation, Control and Mechatronics for Industry  4.0 (ACMI)_, 2021, pp. 1-6, https://doi.org/10.1109/ACMI53878.2021.9528159
