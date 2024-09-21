@@ -15,11 +15,12 @@ Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Banglades
 Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
-**[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to Present_) <br/>
+**[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to August, 2024_) <br/>
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
-- Open-source DC nano grid design
-- Application specific PV system design <br/>
+- Designed and developed the first-ever modular DC nanogrid, enabling flexible and scalable energy solutions.
+- Contributed to the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen and plasma-based blue hydrogen production.
+- Engineered various solar-powered devices and systems, advancing renewable energy applications and integration into diverse energy environments. <br/>
 
 **[Lecturer](https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/)** (_March, 2020 to Present_) <br/>
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
@@ -40,11 +41,11 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - 32kV/11kV substation and control room of 15kV diesel and gas power plant visit<br/>
 
 ## Technical Skills
-**Coding languages:** _MATLAB, C and Arduino IDE._ <br/>
-**PCB design:** _KiCAD, SMD soldering, converter and inverter design and control_ <br/>
-**PV related software:** _Simulink, PVsyst, HOMER, SAM_ <br/>
+**PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
+**Coding:** _MATLAB, C and Arduino IDE._ <br/>
+**Power system analysis:** _PSCAD, Simulink._ <br/>
+**PCB design:** _KiCAD_ <br/>
 **3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_ <br/>
-**Other software:** _PSim, Proteus, Quartus Prime, Microsoft office, Microsoft Visio, Adobe Photoshop._ <br/>
 
 ## Projects
 ### Completed in 2024
