@@ -41,10 +41,21 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - 32kV/11kV substation and control room of 15kV diesel and gas power plant visit<br/>
 
 ## Project Demonstration Videos
-https://www.youtube.com/watch?v=jj62-u7DhTE&t=10s
-https://www.youtube.com/watch?v=hI34Ptq-qJU
-https://www.youtube.com/watch?v=8P-wjO4yuKE&t=30s 
-<br/>
+<div class="video-library">
+    <div class="video-item">
+        <h3>Motakabbir on open source electronics</h3>
+        <iframe src="https://www.youtube.com/watch?v=jj62-u7DhTE&t=10s" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-item">
+        <h3>Off-grid Solar Photovoltaic 3-phase industrial energy system</h3>
+        <iframe src="https://www.youtube.com/watch?v=hI34Ptq-qJU" frameborder="0" allowfullscreen></iframe>
+    </div>
+    <div class="video-item">
+        <h3>FAST lab contributions to the Pale Blue Hydrogen Project</h3>
+        <iframe src="https://www.youtube.com/watch?v=8P-wjO4yuKE&t=30s" frameborder="0" allowfullscreen></iframe>
+    </div>
+</div>
+
 
 ## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
