@@ -118,16 +118,8 @@ The study system in this project comprises a 10kW PV solar system operating as a
 An open source Inverter for 120V, 60Hz AC supply compatible with 24V battery, within the cost of 200 CAD. 
 - 60Hz 120V pure AC supply
 - Open source hardware and encloser
-- Over current and over temperature protection,
-- High efficiency, low harmonic and low cost
-  
-#### _Open-source Maximum Power Point Tracker (30A, 24V)_
-![Open-source MPPT (30A, 24V))](/files/img/MPPT30A,24V.jpg) 
-An open source MPPT of 30A,24V designed within the cost of 120 CAD which is poised not only to rival existing market products in terms of price but also to surpass them in certain advanced features such as: 
-- Features an LCD menu interface with customizable settings and display layouts.
-- Offers WiFi connectivity through the blynk app for telemetry purposes. 
-- Includes built-in protection mechanisms against over current, over voltage, PV short circuit, and battery reverse polarity.
-- Equipped with temperature protection and a cooling fan to prevent overheating.<br/>
+- Over current and over temperature protection.
+- High efficiency, low harmonic and low cost. <br/>
 
 ### Completed in 2022
 #### _[AC/off-grid photovoltaic powered open-source ball mill](https://www.sciencedirect.com/science/article/pii/S2468067223000305)_
