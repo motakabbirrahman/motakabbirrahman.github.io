@@ -1,6 +1,6 @@
 ## Md Motakabbir Rahman
 <img src="/files/img/DSC08310.jpg" align="right" alt="Your image title" width="250"/>
-Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/), currently on study leave. He completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at [Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98.00/100.00. 
+Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/), currently on study leave. He completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at [Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98/100. 
 Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability and poverty reduction. 
 ## Research Interest
 His research interests focus on photovoltaic energy systems and power electronics, with a specialization in open-source nanogrid design and control. His work emphasizes modular DC nanogrid development tailored for sustainable, application-specific solutions. He possesses extensive expertise in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with hands-on experience using PSCAD simulations. Additionally, he was actively involved in the development of the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen production and solar-powered plasma-based blue hydrogen generation.
@@ -18,19 +18,16 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 **[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to August, 2024_) <br/>
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
-- Designed and developed the first-ever modular DC nanogrid, enabling flexible and scalable energy solutions.
-- Contributed to the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen and plasma-based blue hydrogen production.
-- Engineered various solar-powered devices and systems, advancing renewable energy applications and integration into diverse energy environments. <br/>
+- Designed the first-ever modular DC nanogrid for flexible, scalable energy solutions.
+- Contributed to the Pale Blue Hydrogen project focusing on sustainable hydrogen production.
+- Developed various solar-powered devices and systems.<br/>
 
 **[Lecturer](https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/)** (_March, 2020 to Present_) <br/>
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
 Department of Electrical and Electronic Engineering
-- Courses offered: Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing. 
-- Lab-in-charge of Electronic Circuit Laboratory.
-- Student Coordinator of EEE Batch 11 (32 students)
-- Vice president of BAUET Automation and Robotics Society (Sep. 2021 -Sep 2022)
-- Member of accreditation and self-assessment report (SAR) committee.
-- Routine Coordinator. (Summer 2021) <br/>
+- Courses offered:Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing.
+- Responsibilities: Lab-in-charge (Electronics lab), Student Coordinator, Accreditation Committee Member.
+- Vice President of Automation and Robotics Society <br/>
 
 **Industrial Trainee** (_May 2018 to June 2018_) <br/>
 _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
@@ -45,7 +42,7 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 **Coding:** _MATLAB, C and Arduino IDE._ <br/>
 **Power system analysis:** _PSCAD, Simulink._ <br/>
 **PCB design:** _KiCAD_ <br/>
-**3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_ <br/>
+**3D printing:** _FreeCAD, Onshape_ <br/>
 
 ## Project Demonstration Videos
 <div class="video-library">
