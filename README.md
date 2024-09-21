@@ -193,7 +193,7 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
          
 ## Professional and Research Profiles
 <p float="left">
-    <a href="https://www.linkedin.com/in/motakabbir71/"><img src="/files/img/Linkedin.png" alt="FAST" width="100" /><a/>
+    <a href="https://www.linkedin.com/in/motakabbir71/"><img src="/files/img/Linkedin.png" alt="LinkedIn" width="100" /><a/>
     <a href="https://www.researchgate.net/profile/Md-Motakabbir-Rahman-2"><img src="/files/img/Researchgate.png" alt="ResearchGate" width="100" /><a/>
     <a href="https://scholar.google.ca/citations?user=tNG_NGgAAAAJ"><img src="/files/img/GoogleScholar.png" alt="GoogleScholar" width="100" /><a/>
     <a href="https://orcid.org/0000-0001-6619-1282"><img src="/files/img/Orcid.png" alt="ORCiD" width="100" /><a/> <br/><br/>
