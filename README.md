@@ -1,4 +1,4 @@
-## Biography
+## Md Motakabbir Rahman
 <img src="/files/img/DSC08310.jpg" align="right" alt="Your image title" width="250"/>
 Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/), currently on study leave. He completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at [Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98.00/100.00. 
 Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability and poverty reduction. 
@@ -40,6 +40,13 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - Production process and assembly line monitoring LED Bulb.
 - 32kV/11kV substation and control room of 15kV diesel and gas power plant visit<br/>
 
+## Tecnical Skills
+**PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
+**Coding:** _MATLAB, C and Arduino IDE._ <br/>
+**Power system analysis:** _PSCAD, Simulink._ <br/>
+**PCB design:** _KiCAD_ <br/>
+**3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_ <br/>
+
 ## Project Demonstration Videos
 <div class="video-library">
     <div class="video-item">
@@ -61,13 +68,6 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
         </a>
     </div>
 </div>
-
-## Tecnical Skills
-**PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
-**Coding:** _MATLAB, C and Arduino IDE._ <br/>
-**Power system analysis:** _PSCAD, Simulink._ <br/>
-**PCB design:** _KiCAD_ <br/>
-**3D printing:** _FreeCAD, Onshape, printers: Lulzbot TAZ pro, Prusa i3 MK3S & MK3S+_ <br/>
 
 ## Projects
 ### Completed in 2024
