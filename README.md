@@ -40,27 +40,11 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - Production process and assembly line monitoring LED Bulb.
 - 32kV/11kV substation and control room of 15kV diesel and gas power plant visit<br/>
 
-## Technical Skills
-{{video
-| video = https://www.youtube.com/watch?v=jj62-u7DhTE&t=10s
-| title = Motakabbir on open source electronics
-| align = Left
-| date = 2023-11-12
-| location = Western University, London, Ontario
-}}
-{{Video
-| video = https://www.youtube.com/watch?v=hI34Ptq-qJU
-| title = Off-grid Solar Photovoltaic 3-phase industrial energy system
-| align = Left
-| date = 2024-06-21
-| location = ICFAR, London, Ontario
-}}{{Video
-| video = https://www.youtube.com/watch?v=8P-wjO4yuKE&t=30s
-| title = FAST lab contributions to the Pale Blue Hydrogen Project
-| align = Left
-| date = 2024-06-21
-| location = ICFAR, London, Ontario
-}}
+## Project Demonstration Videos
+https://www.youtube.com/watch?v=jj62-u7DhTE&t=10s
+https://www.youtube.com/watch?v=hI34Ptq-qJU
+https://www.youtube.com/watch?v=8P-wjO4yuKE&t=30s 
+<br/>
 
 ## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
