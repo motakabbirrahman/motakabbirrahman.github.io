@@ -191,7 +191,7 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
     <a href="https://www.appropedia.org/User:Motakabbir"><img src="/files/img/FAST logo.png" alt="FAST" width="100" /><a/>
      <a href="https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/"><img src="/files/img/BAUET_logo.jpg" alt="BAUET" width="100" /><a/> <br/><br/>
          
-## Professional and Research Profiles
+**Professional and Research Profiles**
 <p float="left">
     <a href="https://www.linkedin.com/in/motakabbir71/"><img src="/files/img/Linkedin.png" alt="LinkedIn" width="100" /><a/>
     <a href="https://www.researchgate.net/profile/Md-Motakabbir-Rahman-2"><img src="/files/img/Researchgate.png" alt="ResearchGate" width="100" /><a/>
