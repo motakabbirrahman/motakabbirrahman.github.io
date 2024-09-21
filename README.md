@@ -65,7 +65,7 @@ This research article provides a novel innovation: a modular version of the PV p
 - The nanogrid is ideal for powering devices in locations like campsites, emergency vehicles, and off-grid homes, offering a more accessible alternative to AC systems.
 - Stability and power supply efficiency were confirmed through time-domain simulations and load variation tests, making it suitable for a wide range of user-specific applications.
   
-#### _[Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production](https://www.sciencedirect.com/science/article/pii/S036031992403904)_
+#### _[Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production](https://www.sciencedirect.com/science/article/pii/S0360319924039041)_
 ![Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer](/files/img/DC-DC converter intergrating PV and AEM.png) 
 This research explores innovative method for advancing sustainable hydrogen production using solar energy.
 - Surplus PV energy is used via structured AEM electrolyzer schedules for H₂ production.
