@@ -32,10 +32,8 @@ Department of Electrical and Electronic Engineering
 **Industrial Trainee** (_May 2018 to June 2018_) <br/>
 _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
 - Control of Roll former machine, CNC machine and Injection molding machine used for Refrigerator manufacturing.
-- Operating servo motor driver, vector driver and Inverter control using PLC.
-- IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing.
-- Production process and assembly line monitoring LED Bulb.
-- 32kV/11kV substation and control room of 15kV diesel and gas power plant visit<br/>
+- Servo motor driver, vector driver and Inverter control using PLC. 
+- IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing. <br/>
 
 ## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
