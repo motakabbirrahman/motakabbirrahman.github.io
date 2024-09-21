@@ -69,7 +69,7 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
     </div>
 </div>
 
-## Projects
+## Completed Projects
 ### Completed in 2024
 
 #### _[Open-Source Hardware Design of Modular Solar DC Nanogrid](https://www.mdpi.com/2227-7080/12/9/167)_
