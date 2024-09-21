@@ -62,7 +62,7 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 | location = ICFAR, London, Ontario
 }}
 
-## Project Demonstation Videos
+## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
 **Coding:** _MATLAB, C and Arduino IDE._ <br/>
 **Power system analysis:** _PSCAD, Simulink._ <br/>
@@ -71,6 +71,24 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 
 ## Projects
 ### Completed in 2024
+
+#### _[Open-Source Hardware Design of Modular Solar DC Nanogrid](https://www.mdpi.com/2227-7080/12/9/167)_
+![ Modular Solar DC Nanogrid Hardware](/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid.png) 
+This research article provides a novel innovation: a modular version of the PV powered DC nanogrid to be installed at consumer premises in a device form, operating as a plug-and-play device that can be customized according to consumer requirements.
+- Solar DC nanogrids are well-established, but traditional designs focus on AC systems, requiring high technical knowledge and resulting in high costs.
+- This study introduces a novel open-source modular DC nanogrid, offering plug-and-play functionality and customizable voltage levels for various applications.
+- The system includes converters, controllers, and data loggers, with step-by-step assembly guidance, and has been experimentally validated and simulated in MATLAB/Simulink.
+- The nanogrid is ideal for powering devices in locations like campsites, emergency vehicles, and off-grid homes, offering a more accessible alternative to AC systems.
+- Stability and power supply efficiency were confirmed through time-domain simulations and load variation tests, making it suitable for a wide range of user-specific applications.
+  
+#### _[Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production](https://www.sciencedirect.com/science/article/pii/S036031992403904)_
+![Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer](/files/img/DC-DC converter intergrating PV and AEM.png) 
+This research explores innovative method for advancing sustainable hydrogen production using solar energy.
+- Surplus PV energy is used via structured AEM electrolyzer schedules for H₂ production.
+- 75% of AEM is PV-powered, reducing energy waste, with batteries covering the rest.
+- Open-source adjustable DC-DC converter ensures optimal AEM electrolyzer performance.
+- Custom DC-DC converter achieves 90% efficiency, cutting power loss for the electrolyzer.
+  
 #### _[Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169)_
 ![Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](/files/img/DC Nano grid Research Poster.png) 
 This research presents a modular open-source solar photovoltaic (PV)-powered DC nanogrid system designed for sustainable and accessible off-grid power solutions, particularly in remote and isolated areas. By combining DIY PV technology with batteries, users can generate, store, and utilize electricity, reducing reliance on traditional grid infrastructure and promoting energy independence.
