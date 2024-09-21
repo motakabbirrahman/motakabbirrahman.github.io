@@ -44,18 +44,23 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 <div class="video-library">
     <div class="video-item">
         <h3>Motakabbir on open source electronics</h3>
-        <iframe src="https://www.youtube.com/embed/jj62-u7DhTE" frameborder="0" allowfullscreen></iframe>
+        <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
+            <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" />
+        </a>
     </div>
     <div class="video-item">
         <h3>Off-grid Solar Photovoltaic 3-phase industrial energy system</h3>
-        <iframe src="https://www.youtube.com/embed/hI34Ptq-qJU" frameborder="0" allowfullscreen></iframe>
+        <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
+            <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" />
+        </a>
     </div>
     <div class="video-item">
         <h3>FAST lab contributions to the Pale Blue Hydrogen Project</h3>
-        <iframe src="https://www.youtube.com/embed/8P-wjO4yuKE" frameborder="0" allowfullscreen></iframe>
+        <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
+            <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" />
+        </a>
     </div>
 </div>
-
 
 ## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
