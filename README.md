@@ -186,14 +186,11 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 - Hydro One Scholarship 2024, awarded for the academic achievement and contributions to Power Systems Engineering at Western University.
 - Student of the Year award for the academic year 2018-2019, having attained the highest CGPA of 4.00/4.00 in the fourth year of Bachelor's degree among 120 students at Rajshahi University of Engineering and Technology (RUET).
 
-## Organization
-<p float="left">
-    <a href="https://www.appropedia.org/User:Motakabbir"><img src="/files/img/FAST logo.png" alt="FAST" width="100" /><a/>
-     <a href="https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/"><img src="/files/img/BAUET_logo.jpg" alt="BAUET" width="100" /><a/> <br/><br/>
-         
-##### Professional and Research Profiles
+## Professional and Research Profiles
 <p float="left">
     <a href="https://www.linkedin.com/in/motakabbir71/"><img src="/files/img/Linkedin.png" alt="LinkedIn" width="100" /><a/>
+    <a href="https://www.appropedia.org/User:Motakabbir"><img src="/files/img/FAST logo.png" alt="FAST" width="100" /><a/>
+    <a href="https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/"><img src="/files/img/BAUET_logo.jpg" alt="BAUET" width="100" /><a/> 
     <a href="https://www.researchgate.net/profile/Md-Motakabbir-Rahman-2"><img src="/files/img/Researchgate.png" alt="ResearchGate" width="100" /><a/>
     <a href="https://scholar.google.ca/citations?user=tNG_NGgAAAAJ"><img src="/files/img/GoogleScholar.png" alt="GoogleScholar" width="100" /><a/>
     <a href="https://orcid.org/0000-0001-6619-1282"><img src="/files/img/Orcid.png" alt="ORCiD" width="100" /><a/> <br/><br/>
