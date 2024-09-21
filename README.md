@@ -1,13 +1,14 @@
 ## Biography
 <img src="/files/img/DSC08310.jpg" align="right" alt="Your image title" width="250"/>
-Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/), currently on study leave. He completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at[Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98.00/100.00. 
+Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/), currently on study leave. He completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at [Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98.00/100.00. 
 Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability and poverty reduction. 
 ## Research Interest
 His research interests focus on photovoltaic energy systems and power electronics, with a specialization in open-source nanogrid design and control. His work emphasizes modular DC nanogrid development tailored for sustainable, application-specific solutions. He possesses extensive expertise in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with hands-on experience using PSCAD simulations. Additionally, he was actively involved in the development of the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen production and solar-powered plasma-based blue hydrogen generation.
 
 ## Education
-**[Pursuing] Masters in Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
+**Masters in Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
 Western University, London, Ontario, Canada <br/>
+Dissertation: _[Modular Open-Source Photovoltaic-Powered DC Nanogrid for Application-Specific Designs](https://ir.lib.uwo.ca/etd/10346/)._ <br/>
 
 **Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering** (_January 2015 – September 2019_)<br/>
 Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh<br/> 
