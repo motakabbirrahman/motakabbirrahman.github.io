@@ -6,7 +6,7 @@ Md Motakabbir is currently a research assistant with the [Free Appropriate Susta
 His research interests focus on photovoltaic energy systems and power electronics, with a specialization in open-source nanogrid design and control. His work emphasizes modular DC nanogrid development tailored for sustainable, application-specific solutions. He possesses extensive expertise in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with hands-on experience using PSCAD simulations. Additionally, he was actively involved in the development of the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen production and solar-powered plasma-based blue hydrogen generation.
 
 ## Education
-**Masters in Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
+**Master of Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
 Western University, London, Ontario, Canada <br/>
 Dissertation: _[Modular Open-Source Photovoltaic-Powered DC Nanogrid for Application-Specific Designs](https://ir.lib.uwo.ca/etd/10346/)._ <br/>
 
