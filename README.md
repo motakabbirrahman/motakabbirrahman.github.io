@@ -57,7 +57,7 @@ https://www.youtube.com/watch?v=8P-wjO4yuKE&t=30s
 ### Completed in 2024
 
 #### _[Open-Source Hardware Design of Modular Solar DC Nanogrid](https://www.mdpi.com/2227-7080/12/9/167)_
-![ Modular Solar DC Nanogrid Hardware](/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid.png) 
+![ Modular Solar DC Nanogrid Hardware](/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png) 
 This research article provides a novel innovation: a modular version of the PV powered DC nanogrid to be installed at consumer premises in a device form, operating as a plug-and-play device that can be customized according to consumer requirements.
 - Solar DC nanogrids are well-established, but traditional designs focus on AC systems, requiring high technical knowledge and resulting in high costs.
 - This study introduces a novel open-source modular DC nanogrid, offering plug-and-play functionality and customizable voltage levels for various applications.
