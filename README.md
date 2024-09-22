@@ -154,20 +154,12 @@ Most of the conventional MPPT methods fail to track maximum power under partial 
 
 ### Completed in 2019
 #### _[Protection of Power System during Cyber-Attack using Artificial Neural Network](https://abc.us.org/ojs/index.php/ei/article/view/478)_
-<img src="/files/img/Paper_2.jpg" align="right" alt="Protection of Power System during Cyber-Attack" width="350"/> 
-Impacts of frequency and voltage disturbance on an isolated power system caused by cyber-attack has been discussed and a neural network-based protective approach has been proposed in this research work.
-- Adaptive PID controllers for both load frequency control and automatic voltage regulator have been implemented using an artificial neural network-oriented by genetic algorithm.
-- The parameters of the PID controller have been tuned offline by using a genetic algorithm over a wide range of system parameter variations. These data have been used to train the neural network.
-- For load frequency control neural network tuned PID controller mitigate frequency disturbance 48% faster than manually tuned PID.
-- For the automatic voltage regulator, neural network tuned PID controller mitigate voltage disturbance 70% faster than manually tuned PID during cyber-attack. <br/>
+Impacts of frequency and voltage disturbance on an isolated power system caused by cyber-attack has been discussed and a neural network-based protective approach has been proposed in this research work. <br/>
 
 #### _[Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System](https://ieeexplore.ieee.org/abstract/document/9303531)_
-<img src="/files/img/Ann_based_MPPT.jpg" align="right" alt="ANN based MPPT" width="350"/> 
-Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets. 
-- This paper presents three ANN based MPPT methods: Direct ANN, Cascaded ANN and the proposed Hybrid method.
-- The ANN's are trained using training data set of maximum power point voltages (VMPP ) from a user defined PV array over different environmental conditions. <br/>
+Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets. <br/>
 
-## Selected Publications
+## Publications
 **Journals**
 1. **M. M. Rahman**, G. Antonini, and J. M. Pearce, “Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production,” International Journal of Hydrogen Energy, vol. 88, pp. 333–343, Oct. 2024, https://doi.org/10.1016/j.ijhydene.2024.09.199
 2. **M. M. Rahman**, S. Khan, and J. M. Pearce, “Open-Source Hardware Design of Modular Solar DC Nanogrid,” Technologies, vol. 12, no. 9, Art. no. 9, Sep. 2024, https://doi.org/10.3390/technologies12090167
