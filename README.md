@@ -112,7 +112,7 @@ The study system in this project comprises a 10kW PV solar system operating as a
 - Additionally, provided detailed information about the design of the PV STATCOM controller and guidelines for modeling the system in Simulink environment.
 
 #### _Open-source Inverter (500VA)_
-![Open-source Inverter for plasma generation](/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.jpg) 
+![Open-source Inverter for plasma generation](/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.png) 
 An open source Inverter for 230V, 50Hz AC supply compatible with 24V battery was desgined for plasma generator in order to faciliate blue hydrogen production. 
 - 50Hz 230V pure AC supply
 - Open source hardware and encloser
