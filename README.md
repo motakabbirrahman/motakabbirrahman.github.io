@@ -111,7 +111,7 @@ The study system in this project comprises a 10kW PV solar system operating as a
 - The system is capable of rapidly exchange dynamic reactive power within 1-2 cycles and supply rated reactive current even at reduced voltage.
 - Additionally, provided detailed information about the design of the PV STATCOM controller and guidelines for modeling the system in Simulink environment.
 
-#### _Open-source Inverter (500VA)_
+#### _Open-source Inverter based plasma generation system for blue hydrogen production_
 ![Open-source Inverter for plasma generation](/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.png) 
 An open source Inverter for 230V, 50Hz AC supply compatible with 24V battery was desgined for plasma generator in order to faciliate blue hydrogen production. 
 - 50Hz 230V pure AC supply
