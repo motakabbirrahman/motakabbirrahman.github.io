@@ -85,7 +85,7 @@ This research explores innovative method for advancing sustainable hydrogen prod
 - Custom DC-DC converter achieves 90% efficiency, cutting power loss for the electrolyzer.
   
 #### _[Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169)_
-![Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](/files/img/DC Nano grid Research Poster.png) 
+![Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](/files/img/Nanogrid12.png) 
 This research presents a modular open-source solar photovoltaic (PV)-powered DC nanogrid system designed for sustainable and accessible off-grid power solutions, particularly in remote and isolated areas. By combining DIY PV technology with batteries, users can generate, store, and utilize electricity, reducing reliance on traditional grid infrastructure and promoting energy independence.
 - Modular Open-Source Design: Customizable for diverse applications.    DIY Approach: Empowers users to assemble and install their PV systems.
 - DC Power Supply: Supplies DC power to loads at varying voltage levels.
@@ -95,7 +95,7 @@ Parametric Energy Management System (EMS): Dynamically selects operational modes
 - Open Sharing of Design Specifications: Fosters continuous improvement to meet evolving energy challenges.
 
 #### _HVDC-VSC black start capability in coordination with grid forming solar farm_
-![HVDC-VSC black start capability in coordination with grid forming solar farm](/files/img/Black start capability HVDC-VSC in coordination with grid forming solar farms.png) 
+![HVDC-VSC black start capability in coordination with grid forming solar farm](/files/img/HVDC black start using GFM.png) 
 The study underscores the importance of grid-forming inverters for enhancing grid resilience, particularly during black start operations following power outages.
 - The research highlights the significance of grid-forming inverters in autonomously establishing frequency and voltage, making them suitable for black start operations and system recovery.
 - The study explores integrating grid-forming solar farms with HVDC networks to enhance black start capability, leveraging modular multilevel converters (MMC) for efficient energy transmission.
