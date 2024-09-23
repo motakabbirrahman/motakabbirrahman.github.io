@@ -105,7 +105,7 @@ The study underscores the importance of grid-forming inverters for enhancing gri
   
 ### Completed in 2023
 #### _Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
-![Smart Inverter based PV STATCOM](/files/img/Smart_Inverter-based_PV_STATCOM1.jpg)
+![Smart Inverter based PV STATCOM](/files/img/Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control.png)
 The study system in this project comprises a 10kW PV solar system operating as a PV STATCOM connected to a 208V L-L distributing system.
 - Verification of the voltage control performance of PV STATCOM in response to sudden load changes under various scenarios using MATLAB/Simulink
 - The system is capable of rapidly exchange dynamic reactive power within 1-2 cycles and supply rated reactive current even at reduced voltage.
