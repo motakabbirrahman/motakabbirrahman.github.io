@@ -121,7 +121,7 @@ An open source Inverter for 230V, 50Hz AC supply compatible with 24V battery was
 
 ### Completed in 2022
 #### _[AC/off-grid photovoltaic powered open-source ball mill](https://www.sciencedirect.com/science/article/pii/S2468067223000305)_
-![Open-source Ball Mill](/files/img/Ga-bottleroller.jpg) 
+![Open-source Ball Mill](/files/img/ACoff-grid photovoltaic powered open-source ball mill.png) 
 The open-source ball mill is fully customizable and designed to be fabricated with distributed manufacturing. The parametric designs of the main components are 3-D printable on a low-cost readily accessible RepRap-class fused filament 3-D printer, and the electronic parts, bearings, magnets, and balls are provided by a wide-range of of-the-shelf vendors. 
 - The highly-customizable design of ball mill reduces the cost to <US$130 for an AC powered version and <US$315 for a switchable power that enables off-grid operation with a solar module and battery.
 - The open-source ball mill is capable of reducing silicon particle sizes from the millimeter scale down to the nanometer scale.
