@@ -128,7 +128,7 @@ The open-source ball mill is fully customizable and designed to be fabricated wi
 - The open-source ball mill is also made with standard dimensions to work effectively and has been demonstrated to grind silicon particles from waste PV modules from 0.8 mm to 7 µm in 18 h. <br/>
 
 #### _Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid_
-![DAB Inverter](/files/img/DAB+Inverter.jpg) 
+![DAB Inverter](/files/img/Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid.png) 
 The background of this project is to modify the existing DC nano grid by designing the interface between the nano grid and AC network. The idea is to supply energy to the AC grid when the nano grid is in power surplus mode. 
 - In this project, the DAB cascaded with inverter topology has been designed which can be attached to a DC grid system as an interface with AC grid.
 - Selection of transformer specifications, leakage inductance and conversion ratio in order to achieve ZVS operation for a wide range and reducing switching losses in dual active bridge converter.Hence, this DAB inverter has high efficiency.
