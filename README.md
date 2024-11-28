@@ -45,68 +45,28 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 **PCB design:** _KiCAD_ <br/>
 **3D printing:** _FreeCAD, Onshape_ <br/>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Project Demonstration Videos</title>
-    <style>
-        .video-library {
-            display: flex;
-            justify-content: space-between; /* Spread videos evenly */
-            flex-wrap: wrap; /* Make it responsive */
-            gap: 15px; /* Add space between videos */
-            padding: 10px; /* Add some padding around the container */
-        }
-        .video-item {
-            text-align: center; /* Center text below the video */
-            max-width: 300px; /* Limit the width of each video item */
-        }
-        .video-item img {
-            width: 100%; /* Make the image responsive */
-            height: auto; /* Maintain aspect ratio */
-            border-radius: 5px; /* Optional: Add rounded corners */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add a subtle shadow */
-        }
-        .video-item a {
-            text-decoration: none; /* Remove underline from links */
-            color: #333; /* Set text color */
-            font-weight: bold; /* Make text bold */
-        }
-        .video-item a:hover {
-            color: #0073e6; /* Change color on hover */
-        }
-    </style>
-</head>
-<body>
-
 <h2>Project Demonstration Videos</h2>
-<div class="video-library">
-    <div class="video-item">
-        <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
-            <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" />
-            <br/>Motakabbir on open source electronics
-        </a>
-    </div>
-    <div class="video-item">
-        <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
-            <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" />
-            <br/>Off-grid Solar Photovoltaic 3-phase industrial energy system
-        </a>
-    </div>
-    <div class="video-item">
-        <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
-            <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" />
-            <br/>FAST lab contributions to the Pale Blue Hydrogen Project
-        </a>
-    </div>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between;">
+  <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
+      <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" style="width: 100%; border-radius: 5px;" />
+      <p>Motakabbir on open source electronics</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
+      <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" style="width: 100%; border-radius: 5px;" />
+      <p>Off-grid Solar Photovoltaic 3-phase industrial energy system</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
+      <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" style="width: 100%; border-radius: 5px;" />
+      <p>FAST lab contributions to the Pale Blue Hydrogen Project</p>
+    </a>
+  </div>
 </div>
 
-</body>
-</html>
-
-<br> <br/>
 ## Completed Projects
 
 ### Completed in 2024
