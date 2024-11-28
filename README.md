@@ -72,20 +72,28 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 ### Completed in 2024
 
 <style>
-    .project {
+    .projects-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        gap: 20px;
         margin: 20px auto;
-        padding: 20px;
+        max-width: 1200px;
+    }
+
+    .project {
+        flex: 1 1 calc(45% - 20px); /* Two projects per row with some gap */
+        padding: 15px;
         border: 1px solid #ddd;
         border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-        max-width: 600px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
         background-color: #f9f9f9;
         text-align: center;
     }
 
-    .project h3 {
-        font-size: 1.5rem;
-        margin-bottom: 15px;
+    .project h4 {
+        font-size: 1.3rem;
+        margin-bottom: 10px;
         color: #333;
     }
 
@@ -103,7 +111,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         max-width: 100%;
         height: auto;
         border-radius: 10px;
-        margin: 15px 0;
+        margin: 10px 0;
         transition: transform 0.3s ease, box-shadow 0.3s ease;
         box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
     }
@@ -117,12 +125,12 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         text-align: left;
         list-style: none;
         padding: 0;
-        margin: 20px 0;
+        margin: 10px 0;
     }
 
     .project ul li {
-        margin-bottom: 10px;
-        font-size: 1rem;
+        margin-bottom: 8px;
+        font-size: 0.9rem;
         color: #555;
     }
 
@@ -132,47 +140,47 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     }
 </style>
 
-<div class="project">
-    <h4>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
-    <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
-    <ul>
-        <li><span class="highlight">Customizable:</span> A novel open-source modular DC nanogrid, offering plug-and-play functionality and customizable voltage levels for various applications.</li>
-        <li><span class="highlight">DIY Assembly:</span> Step-by-step guide provided for easy replication and installation.</li>
-        <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
-        <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
-    </ul>
-</div>
+<div class="projects-container">
+    <div class="project">
+        <h4>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
+        <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
+        <ul>
+            <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
+            <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
+            <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
+            <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
+        </ul>
+    </div>
 
-  <div class="project">
+   <div class="project">
         <h4>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h4>
         <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
-         <ul>
+        <ul>
             <li><span class="highlight">Energy Optimization:</span> Novel AEM electrolyzer scheduling scheme for H₂ production.</li>
             <li><span class="highlight">High Efficiency:</span> Open-source DC-DC converter ensures 90% performance.</li>
             <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
         </ul>
     </div>
 
- 
-  <div class="project">
+   <div class="project">
         <h4>⚡ HVDC Black Start with Grid-Forming Solar Farms</h4>
-            <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
-               <ul>
-            <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations, ensuring a systematic restoration process.</li>
+        <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
+        <ul>
+            <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations.</li>
             <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
             <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
         </ul>
     </div>
 
-
-  <div class="project">
+   <div class="project">
         <h4>⚡ Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</h4>
         <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
-                <ul>
+        <ul>
             <li><span class="highlight">Modular Open-Source Design:</span> Customizable for diverse applications.</li>
             <li><span class="highlight">Simulation Validation:</span> Confirms effectiveness in coordinating PV-battery system.</li>
-            </ul>
+        </ul>
     </div>
+</div>
 
   
 ### Completed in 2023
