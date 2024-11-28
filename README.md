@@ -247,18 +247,43 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 </div>
 
 ### Completed in 2020
-#### _[PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition](https://abc.us.org/ojs/index.php/ei/article/view/481)_
-Most of the conventional MPPT methods fail to track maximum power under partial shading condition (PSC). Partial shading is the most common situation in PV power generation, which is caused if part of the series-connected strings is partially shaded. This situation leads to the multiple peaks in the P-V characteristics curve of the PV system.
-- Stochastic search method, Particle Swarm Optimization (PSO), is used instead of the conventional methods to track maximum power under PSC.
-- But the PSO method has the limitation of slow operation.So in this project, a fast hybrid method is presented, which combines the PSO method with the ANN method.
-- In this hybrid method, the ANN enables the existing PSO method to track MPP quickly by providing more accurate initial particle positions of the PSO algorithm. <br/>
+
+<div class="projects-container">
+  <div class="project">
+    <h4>🌿 <a href="https://abc.us.org/ojs/index.php/ei/article/view/481" target="_blank"> PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition </a></h4>
+    <img src="/files/img/PSO-ANN Hybrid MPPT.png" align="right" alt="PSO and ANN Based Hybrid MPPT" width="350" />
+    <ul>
+        <li><span class="highlight">Challenge:</span> Conventional MPPT methods struggle under partial shading due to multiple peaks in the P-V curve.</li>
+        <li><span class="highlight">Solution:</span> Combines Particle Swarm Optimization (PSO) with Artificial Neural Networks (ANN) for faster and more accurate tracking.</li>
+        <li><span class="highlight">Key Advantage:</span> ANN enhances initial particle positions in PSO, improving tracking speed and precision.</li>
+    </ul>
+  </div>
+</div>
 
 ### Completed in 2019
-#### _[Protection of Power System during Cyber-Attack using Artificial Neural Network](https://abc.us.org/ojs/index.php/ei/article/view/478)_
-Impacts of frequency and voltage disturbance on an isolated power system caused by cyber-attack has been discussed and a neural network-based protective approach has been proposed in this research work. <br/>
 
-#### _[Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System](https://ieeexplore.ieee.org/abstract/document/9303531)_
-Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets. <br/>
+<div class="projects-container">
+  <div class="project">
+    <h4>🌿 <a href="https://abc.us.org/ojs/index.php/ei/article/view/478" target="_blank"> Protection of Power System during Cyber-Attack using Artificial Neural Network </a></h4>
+    <img src="/files/img/Cyber-Attack Protection.png" align="right" alt="Cyber-Attack Protection" width="350" />
+    <ul>
+        <li><span class="highlight">Application:</span> Focuses on addressing frequency and voltage disturbances in isolated power systems due to cyber-attacks.</li>
+        <li><span class="highlight">Protection Strategy:</span> Introduces a neural network-based method to safeguard power systems during cyber threats.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="projects-container">
+  <div class="project">
+    <h4>🌿 <a href="https://ieeexplore.ieee.org/abstract/document/9303531" target="_blank"> Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System </a></h4>
+    <img src="/files/img/ANN MPPT.png" align="right" alt="ANN MPPT" width="350" />
+    <ul>
+        <li><span class="highlight">Challenge:</span> Conventional MPPT methods like P&O and incremental conductance are slow and inefficient.</li>
+        <li><span class="highlight">Solution:</span> Utilizes ANN to enable faster, more accurate tracking of the maximum power point (MPP).</li>
+        <li><span class="highlight">Advantage:</span> Enhances PV system performance under varying environmental conditions.</li>
+    </ul>
+  </div>
+</div>
 
 
 ## Publications
