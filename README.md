@@ -50,19 +50,19 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
   <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
     <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
       <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" style="width: 100%; border-radius: 5px;" />
-      <p>Motakabbir on open source electronics</p>
+      <p>Motakabbir on open source hardware</p>
     </a>
   </div>
   <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
     <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
       <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" style="width: 100%; border-radius: 5px;" />
-      <p>Off-grid Solar Photovoltaic 3-phase industrial energy system</p>
+      <p>Off-grid 3-phase industrial scale power supply</p>
     </a>
   </div>
   <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
     <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
       <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" style="width: 100%; border-radius: 5px;" />
-      <p>FAST lab contributions to the Pale Blue Hydrogen Project</p>
+      <p> Pale Blue Hydrogen Project</p>
     </a>
   </div>
 </div>
