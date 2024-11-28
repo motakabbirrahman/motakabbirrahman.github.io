@@ -67,8 +67,8 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 </div>
 <br> <br/>
-
 ## Completed Projects
+
 ### Completed in 2024
 
 #### _[Open-Source Hardware Design of Modular Solar DC Nanogrid](https://www.mdpi.com/2227-7080/12/9/167)_
