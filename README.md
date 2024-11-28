@@ -133,72 +133,47 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 </style>
 
 <div class="project">
-    <h3>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h3>
-    <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
+    <h4>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
+    <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
     <ul>
-        <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
-        <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
+        <li><span class="highlight">Customizable:</span> A novel open-source modular DC nanogrid, offering plug-and-play functionality and customizable voltage levels for various applications.</li>
+        <li><span class="highlight">DIY Assembly:</span> Step-by-step guide provided for easy replication and installation.</li>
         <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
         <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
     </ul>
 </div>
 
-
   <div class="project">
-        <h3>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h3>
-        ![Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer](/files/img/DC-DC converter intergrating PV and AEM.png) 
-        <ul>
-            <li><span class="highlight">Energy Optimization:</span> PV provides 75% of electrolyzer power.</li>
+        <h4>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h4>
+        <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
+         <ul>
+            <li><span class="highlight">Energy Optimization:</span> Novel AEM electrolyzer scheduling scheme for H₂ production.</li>
             <li><span class="highlight">High Efficiency:</span> Open-source DC-DC converter ensures 90% performance.</li>
             <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
         </ul>
     </div>
 
+ 
   <div class="project">
-        <h3>⚡ HVDC Black Start with Grid-Forming Solar Farms</h3>
-        ![HVDC-VSC black start capability in coordination with grid forming solar farm](/files/img/HVDC black start using GFM.png) 
-        <ul>
-            <li><span class="highlight">Autonomous Recovery:</span> Grid-forming inverters enable independent frequency and voltage control.</li>
+        <h4>⚡ HVDC Black Start with Grid-Forming Solar Farms</h4>
+            <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
+               <ul>
+            <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations, ensuring a systematic restoration process.</li>
             <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
             <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
         </ul>
     </div>
 
-#### _[Open-Source Hardware Design of Modular Solar DC Nanogrid](https://www.mdpi.com/2227-7080/12/9/167)_
-![ Modular Solar DC Nanogrid Hardware](/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png) 
-This research article provides a novel innovation: a modular version of the PV powered DC nanogrid to be installed at consumer premises in a device form, operating as a plug-and-play device that can be customized according to consumer requirements.
-- Solar DC nanogrids are well-established, but traditional designs focus on AC systems, requiring high technical knowledge and resulting in high costs.
-- This study introduces a novel open-source modular DC nanogrid, offering plug-and-play functionality and customizable voltage levels for various applications.
-- The system includes converters, controllers, and data loggers, with step-by-step assembly guidance, and has been experimentally validated and simulated in MATLAB/Simulink.
-- The nanogrid is ideal for powering devices in locations like campsites, emergency vehicles, and off-grid homes, offering a more accessible alternative to AC systems.
-- Stability and power supply efficiency were confirmed through time-domain simulations and load variation tests, making it suitable for a wide range of user-specific applications.
-  
-#### _[Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production](https://www.sciencedirect.com/science/article/pii/S0360319924039041)_
-![Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer](/files/img/DC-DC converter intergrating PV and AEM.png) 
-This research explores innovative method for advancing sustainable hydrogen production using solar energy.
-- Surplus PV energy is used via structured AEM electrolyzer schedules for H₂ production.
-- 75% of AEM is PV-powered, reducing energy waste, with batteries covering the rest.
-- Open-source adjustable DC-DC converter ensures optimal AEM electrolyzer performance.
-- Custom DC-DC converter achieves 90% efficiency, cutting power loss for the electrolyzer.
-  
-#### _[Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169)_
-![Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System](/files/img/Nanogrid12.png) 
-This research presents a modular open-source solar photovoltaic (PV)-powered DC nanogrid system designed for sustainable and accessible off-grid power solutions, particularly in remote and isolated areas. By combining DIY PV technology with batteries, users can generate, store, and utilize electricity, reducing reliance on traditional grid infrastructure and promoting energy independence.
-- Modular Open-Source Design: Customizable for diverse applications.    DIY Approach: Empowers users to assemble and install their PV systems.
-- DC Power Supply: Supplies DC power to loads at varying voltage levels.
-Parametric Energy Management System (EMS): Dynamically selects operational modes for efficiency.
-- Simulation Validation: Confirms effectiveness in coordinating PV-battery system.
-- Customizable Solution: Adaptable for different DC voltages, power levels, and battery backup requirements.
-- Open Sharing of Design Specifications: Fosters continuous improvement to meet evolving energy challenges.
 
-#### _HVDC-VSC black start capability in coordination with grid forming solar farm_
-![HVDC-VSC black start capability in coordination with grid forming solar farm](/files/img/HVDC black start using GFM.png) 
-The study underscores the importance of grid-forming inverters for enhancing grid resilience, particularly during black start operations following power outages.
-- The research highlights the significance of grid-forming inverters in autonomously establishing frequency and voltage, making them suitable for black start operations and system recovery.
-- The study explores integrating grid-forming solar farms with HVDC networks to enhance black start capability, leveraging modular multilevel converters (MMC) for efficient energy transmission.
-- A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations, ensuring a systematic restoration process.
-- PSCAD simulations validate the effectiveness of the proposed black start strategy, demonstrating successful system restoration facilitated by grid-forming solar farms and HVDC technology.
-- The study identifies avenues for future research, including variations in load conditions, fault scenarios, and automation of blackout detection for improved system reliability and efficiency.
+  <div class="project">
+        <h4>⚡ Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</h4>
+        <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
+                <ul>
+            <li><span class="highlight">Modular Open-Source Design:</span> Customizable for diverse applications.</li>
+            <li><span class="highlight">Simulation Validation:</span> Confirms effectiveness in coordinating PV-battery system.</li>
+            </ul>
+    </div>
+
   
 ### Completed in 2023
 #### _Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
