@@ -67,9 +67,40 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
   </div>
 </div>
 
-## Completed Projects
+## Projects Portfolio
 
 ### Completed in 2024
+
+  <div class="project">
+        <h3>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h3>
+        ![ Modular Solar DC Nanogrid Hardware](/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png) 
+        <ul>
+            <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
+            <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
+            <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
+            <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
+        </ul>
+    </div>
+
+  <div class="project">
+        <h3>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h3>
+        ![Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer](/files/img/DC-DC converter intergrating PV and AEM.png) 
+        <ul>
+            <li><span class="highlight">Energy Optimization:</span> PV provides 75% of electrolyzer power.</li>
+            <li><span class="highlight">High Efficiency:</span> Open-source DC-DC converter ensures 90% performance.</li>
+            <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
+        </ul>
+    </div>
+
+  <div class="project">
+        <h3>⚡ HVDC Black Start with Grid-Forming Solar Farms</h3>
+        ![HVDC-VSC black start capability in coordination with grid forming solar farm](/files/img/HVDC black start using GFM.png) 
+        <ul>
+            <li><span class="highlight">Autonomous Recovery:</span> Grid-forming inverters enable independent frequency and voltage control.</li>
+            <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
+            <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
+        </ul>
+    </div>
 
 #### _[Open-Source Hardware Design of Modular Solar DC Nanogrid](https://www.mdpi.com/2227-7080/12/9/167)_
 ![ Modular Solar DC Nanogrid Hardware](/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png) 
@@ -122,66 +153,6 @@ An open source Inverter for 230V, 50Hz AC supply compatible with 24V battery was
 - Open source hardware and encloser
 - Over current and over temperature protection.
 - High efficiency, low harmonic and low cost. <br/>
-
-
-<h1>🚀 Projects Portfolio</h1>
-    <p>A showcase of groundbreaking innovations in renewable energy, open-source hardware, and power systems engineering.</p>
-
-<h2>🏆 2024 Highlights</h2>
-
-  <div class="project">
-        <h3>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h3>
-        <img src="your-image-path.png" alt="Modular Solar DC Nanogrid">
-        <ul>
-            <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
-            <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
-            <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
-            <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
-        </ul>
-    </div>
-
-   <div class="project">
-        <h3>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h3>
-        <img src="your-image-path.png" alt="Green Hydrogen Production with AEM Electrolyzers">
-        <ul>
-            <li><span class="highlight">Energy Optimization:</span> PV provides 75% of electrolyzer power.</li>
-            <li><span class="highlight">High Efficiency:</span> Open-source DC-DC converter ensures 90% performance.</li>
-            <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
-        </ul>
-    </div>
-
-  <div class="project">
-        <h3>⚡ HVDC Black Start with Grid-Forming Solar Farms</h3>
-        <img src="your-image-path.png" alt="HVDC Black Start">
-        <ul>
-            <li><span class="highlight">Autonomous Recovery:</span> Grid-forming inverters enable independent frequency and voltage control.</li>
-            <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
-            <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
-        </ul>
-    </div>
-  
-  <h2>🌟 Past Milestones</h2>
-
-  <div class="project">
-        <h3>2023: Smart Innovations</h3>
-        <ul>
-            <li>PV STATCOM for Dynamic Voltage Control</li>
-            <li>Open-Source Inverter for Blue Hydrogen</li>
-        </ul>
-    </div>
-
-  <div class="project">
-        <h3>2022: Cutting-Edge Contributions</h3>
-        <ul>
-            <li><a href="https://www.sciencedirect.com/science/article/pii/S2468067223000305" target="_blank">Open-Source Photovoltaic-Powered Ball Mill</a></li>
-            <li>DAB Converter for DC-AC Grid Interface</li>
-        </ul>
-    </div>
-
-  <footer class="footer">
-        <p>🌟 Explore more cutting-edge projects in renewable energy, power electronics, and open-source technology.</p>
-    </footer>
-
 
 ### Completed in 2022
 #### _[AC/off-grid photovoltaic powered open-source ball mill](https://www.sciencedirect.com/science/article/pii/S2468067223000305)_
