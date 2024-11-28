@@ -47,19 +47,19 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
     <div class="video-item">
                 <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
             <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" /><br/>
-                    Motakabbir on open source electronics <br/>
+                    ** Motakabbir on open source electronics ** <br/>
         </a>
     </div>
     <div class="video-item">
-        <h3>Off-grid Solar Photovoltaic 3-phase industrial energy system</h3>
-        <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
-            <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" />
+                <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
+            <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" /><br/>
+                    <a> _Off-grid Solar Photovoltaic 3-phase industrial energy system_ </a>
         </a>
     </div>
     <div class="video-item">
-        <h3>FAST lab contributions to the Pale Blue Hydrogen Project</h3>
-        <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
-            <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" />
+               <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
+            <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" /><br/>
+                    <a>**FAST lab contributions to the Pale Blue Hydrogen Project**</a>
         </a>
     </div>
 </div>
