@@ -187,7 +187,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
     <div class="project">
-        <h4>🌟 <a>Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control</a></h4>
+        <h4>🌟 Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control</h4>
         <img src="/files/img/Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control.png" alt="Smart Inverter based PV STATCOM" />
         <ul>
             <li><span class="highlight">System Overview:</span> 10kW PV system operates as PV STATCOM in a 208V L-L distribution network.</li>
@@ -198,7 +198,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 
   <div class="project">
-        <h4>🌿 <a> Open-source Inverter based plasma generation system for blue hydrogen production </a></h4>
+        <h4>🌿 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h4>
         <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source Inverter for plasma generation" />
         <ul>
             <li><span class="highlight">Application:</span> Powers plasma generator for blue hydrogen production with 230V, 50Hz AC output from 24V battery.</li>
@@ -207,55 +207,39 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         </ul>
     </div>
 
+### Completed in 2022
 
-   <div class="project">
-        <h4>⚡ HVDC Black Start with Grid-Forming Solar Farms</h4>
-        <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
-        <ul>
-            <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations.</li>
-            <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
-            <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
-        </ul>
-    </div>
-
-    ### Completed in 2022
-#### _[AC/off-grid photovoltaic powered open-source ball mill](https://www.sciencedirect.com/science/article/pii/S2468067223000305)_
-![Open-source Ball Mill](/files/img/ACoff-grid photovoltaic powered open-source ball mill.png) 
-The open-source ball mill is fully customizable and designed to be fabricated with distributed manufacturing. The parametric designs of the main components are 3-D printable on a low-cost readily accessible RepRap-class fused filament 3-D printer, and the electronic parts, bearings, magnets, and balls are provided by a wide-range of of-the-shelf vendors. 
-- The highly-customizable design of ball mill reduces the cost to <US$130 for an AC powered version and <US$315 for a switchable power that enables off-grid operation with a solar module and battery.
-- The open-source ball mill is capable of reducing silicon particle sizes from the millimeter scale down to the nanometer scale.
-- The open-source ball mill is also made with standard dimensions to work effectively and has been demonstrated to grind silicon particles from waste PV modules from 0.8 mm to 7 µm in 18 h. <br/>
-
-   <div class="project">
-        <h4>🌿 <a href="https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169" target="_blank"> Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</a></h4>
-        <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
-        <ul>
-            <li><span class="highlight">Modular Open-Source Design:</span> Customizable for diverse applications.</li>
-            <li><span class="highlight">Simulation Validation:</span> Confirms effectiveness in coordinating PV-battery system.</li>
-        </ul>
-    </div>
+<div class="project">
+    <h4>🌿<a href="https://www.sciencedirect.com/science/article/pii/S2468067223000305" target="_blank"> AC/Off-Grid Photovoltaic Powered Open-Source Ball Mill</a></h4>
+    <img src="/files/img/ACoff-grid photovoltaic powered open-source ball mill.png" alt="Open-source Ball Mill" />
+    <ul>
+        <li><span class="highlight">Customization:</span> Fully customizable, with parametric designs that are 3D-printable using low-cost RepRap-class printers.</li>
+        <li><span class="highlight">Cost Efficiency:</span> Costs <US$130 for AC-powered and <US$315 for solar-powered off-grid versions.</li>
+        <li><span class="highlight">Performance:</span> Reduces silicon particles from millimeter to nanometer scale; demonstrated to grind waste PV silicon from 0.8 mm to 7 µm in 18 hours.</li>
+    </ul>
 </div>
 
-
-
-#### _Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid_
-![DAB Inverter](/files/img/Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid.png) 
-The background of this project is to modify the existing DC nano grid by designing the interface between the nano grid and AC network. The idea is to supply energy to the AC grid when the nano grid is in power surplus mode. 
-- In this project, the DAB cascaded with inverter topology has been designed which can be attached to a DC grid system as an interface with AC grid.
-- Selection of transformer specifications, leakage inductance and conversion ratio in order to achieve ZVS operation for a wide range and reducing switching losses in dual active bridge converter.Hence, this DAB inverter has high efficiency.
-- Designing the filters for the grid connected inverter and integrate it with the DAB.
-- The simulations showed that, the DC capacitor voltage is maintained within the ZVS range in order ensure soft switching with a wide range of phase shift.
-
-
+<div class="project">
+    <h4>🌿 Design and Control of Dual Active Bridge Converter Cascaded with Inverter</h4>
+    <img src="/files/img/Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid.png" alt="DAB Inverter" />
+    <ul>
+        <li><span class="highlight">Application:</span> Interfaces low-voltage DC nano grid with AC grid, enabling surplus power transfer to the AC network.</li>
+        <li><span class="highlight">Design Features:</span> Includes DAB topology with transformer specifications and leakage inductance for ZVS operation, minimizing switching losses for high efficiency.</li>
+        <li><span class="highlight">Performance:</span> Integrated with filters for grid connection; simulations confirm DC capacitor voltage remains within ZVS range for soft switching.</li>
+    </ul>
+</div>
 
 ### Completed in 2021
-#### _[Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective](https://ieeexplore.ieee.org/document/9528159)_ 
-<img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="right" alt="DC Nano Grid System"  width="350"/>
-This research project proposes a model of DC Nano grid integrated with solar PV module which can supply electricity to up to 20 households at a distance of about 1 km. 
-- Solar DC Nano grid can be a possible approach towards achieving electrification to certain areas where grid connectivity is still unavailable.
-- It can generate and distribute power to a cluster of households at close proximity reliably.
-- I this project simulation results of buck converters assigned to supply power at three different voltage levels to feed various domestic loads.
-- The cost estimation is presented of the proposed model.
+
+<div class="project">
+    <h4>🌿 <a href="https://ieeexplore.ieee.org/document/9528159" target="_blank"> Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective </a></h4>
+    <img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="right" alt="DC Nano Grid System" width="350" />
+    <ul>
+        <li><span class="highlight">Application:</span> Supplies electricity to up to 20 households within 1 km, addressing areas lacking grid connectivity.</li>
+        <li><span class="highlight">Design Features:</span> Integrates solar PV with buck converters supplying three voltage levels for diverse domestic loads.</li>
+        <li><span class="highlight">Performance & Cost:</span> Demonstrates reliable power distribution; includes detailed cost estimation of the proposed model.</li>
+    </ul>
+</div>
 
 ### Completed in 2020
 #### _[PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition](https://abc.us.org/ojs/index.php/ei/article/view/481)_
