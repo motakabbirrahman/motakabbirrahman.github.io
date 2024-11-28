@@ -251,8 +251,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 <div class="projects-container">
   <div class="project">
     <h4>🌿 <a href="https://abc.us.org/ojs/index.php/ei/article/view/481" target="_blank"> PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition </a></h4>
-    <img src="/files/img/PSO-ANN Hybrid MPPT.png" align="right" alt="PSO and ANN Based Hybrid MPPT" width="350" />
-    <ul>
+        <ul>
         <li><span class="highlight">Challenge:</span> Conventional MPPT methods struggle under partial shading due to multiple peaks in the P-V curve.</li>
         <li><span class="highlight">Solution:</span> Combines Particle Swarm Optimization (PSO) with Artificial Neural Networks (ANN) for faster and more accurate tracking.</li>
         <li><span class="highlight">Key Advantage:</span> ANN enhances initial particle positions in PSO, improving tracking speed and precision.</li>
@@ -265,14 +264,13 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 <div class="projects-container">
   <div class="project">
     <h4>🌿 <a href="https://abc.us.org/ojs/index.php/ei/article/view/478" target="_blank"> Protection of Power System during Cyber-Attack using Artificial Neural Network </a></h4>
+    <img src="/files/img/Paper_2.jpg" align="right" alt="PSO and ANN Based Hybrid MPPT" width="350" />
         <ul>
         <li><span class="highlight">Application:</span> Focuses on addressing frequency and voltage disturbances in isolated power systems due to cyber-attacks.</li>
         <li><span class="highlight">Protection Strategy:</span> Introduces a neural network-based method to safeguard power systems during cyber threats.</li>
     </ul>
   </div>
-</div>
 
-<div class="projects-container">
   <div class="project">
     <h4>🌿 <a href="https://ieeexplore.ieee.org/abstract/document/9303531" target="_blank"> Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System </a></h4>
     <img src="/files/img/Ann_based_MPPT.jpg" align="right" alt="ANN MPPT" width="350" />
