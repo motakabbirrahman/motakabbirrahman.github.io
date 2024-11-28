@@ -1,4 +1,6 @@
 title: Md Motakabbir Rahman
 description: An Electrical Engineer with expertise in open-source DC grid design, photovoltaic energy, and power electronics. <br/>  <br/>  London, ON, Canada <br/> LinkedIn- motakabbir71 <br/> motakabbir71@gmail.com  
-theme: jekyll-theme-dinky
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
 google_site_verification: ll49wEfP_Zq3CtHNExb7Ud46uR8TrREioQSCGy1K834
