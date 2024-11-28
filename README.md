@@ -206,10 +206,12 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Performance Advantages:</span>  High efficiency, low harmonics, and cost-effective operation.</li>
         </ul>
     </div>
+</div>
 
 ### Completed in 2022
 
-<div class="project">
+<div class="projects-container">
+  <div class="project">
     <h4>🌿<a href="https://www.sciencedirect.com/science/article/pii/S2468067223000305" target="_blank"> AC/Off-Grid Photovoltaic Powered Open-Source Ball Mill</a></h4>
     <img src="/files/img/ACoff-grid photovoltaic powered open-source ball mill.png" alt="Open-source Ball Mill" />
     <ul>
@@ -227,11 +229,13 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         <li><span class="highlight">Design Features:</span> Includes DAB topology with transformer specifications and leakage inductance for ZVS operation, minimizing switching losses for high efficiency.</li>
         <li><span class="highlight">Performance:</span> Integrated with filters for grid connection; simulations confirm DC capacitor voltage remains within ZVS range for soft switching.</li>
     </ul>
+  </div>
 </div>
 
 ### Completed in 2021
 
-<div class="project">
+<div class="projects-container">
+  <div class="project">
     <h4>🌿 <a href="https://ieeexplore.ieee.org/document/9528159" target="_blank"> Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective </a></h4>
     <img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="right" alt="DC Nano Grid System" width="350" />
     <ul>
@@ -239,6 +243,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         <li><span class="highlight">Design Features:</span> Integrates solar PV with buck converters supplying three voltage levels for diverse domestic loads.</li>
         <li><span class="highlight">Performance & Cost:</span> Demonstrates reliable power distribution; includes detailed cost estimation of the proposed model.</li>
     </ul>
+  </div>
 </div>
 
 ### Completed in 2020
