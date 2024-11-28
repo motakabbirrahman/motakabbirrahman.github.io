@@ -45,26 +45,26 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 **PCB design:** _KiCAD_ <br/>
 **3D printing:** _FreeCAD, Onshape_ <br/>
 
-## Project Demonstration Videos
-<div class="video-library">
-    <div class="video-item">
-                <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
-            <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" /><br/>
-                    Motakabbir on open source electronics <br/>
-        </a>
-    </div>
-    <div class="video-item">
-                <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
-            <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" /><br/>
-                    <a> Off-grid Solar Photovoltaic 3-phase industrial energy system </a>
-        </a>
-    </div>
-    <div class="video-item">
-               <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
-            <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" /><br/>
-                    <a> FAST lab contributions to the Pale Blue Hydrogen Project </a>
-        </a>
-    </div>
+<h2>Project Demonstration Videos</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between;">
+  <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
+      <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" style="width: 100%; border-radius: 5px;" />
+      <p>Motakabbir on open source electronics</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
+      <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" style="width: 100%; border-radius: 5px;" />
+      <p>Off-grid Solar Photovoltaic 3-phase industrial energy system</p>
+    </a>
+  </div>
+  <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center;">
+    <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
+      <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" style="width: 100%; border-radius: 5px;" />
+      <p>FAST lab contributions to the Pale Blue Hydrogen Project</p>
+    </a>
+  </div>
 </div>
 <br> <br/>
 ## Completed Projects
