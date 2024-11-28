@@ -184,28 +184,59 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
   
 ### Completed in 2023
-#### _Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control_
-![Smart Inverter based PV STATCOM](/files/img/Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control.png)
-The study system in this project comprises a 10kW PV solar system operating as a PV STATCOM connected to a 208V L-L distributing system.
-- Verification of the voltage control performance of PV STATCOM in response to sudden load changes under various scenarios using MATLAB/Simulink
-- The system is capable of rapidly exchange dynamic reactive power within 1-2 cycles and supply rated reactive current even at reduced voltage.
-- Additionally, provided detailed information about the design of the PV STATCOM controller and guidelines for modeling the system in Simulink environment.
 
-#### _Open-source Inverter based plasma generation system for blue hydrogen production_
-![Open-source Inverter for plasma generation](/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.png) 
-An open source Inverter for 230V, 50Hz AC supply compatible with 24V battery was desgined for plasma generator in order to faciliate blue hydrogen production. 
-- 50Hz 230V pure AC supply
-- Open source hardware and encloser
-- Over current and over temperature protection.
-- High efficiency, low harmonic and low cost. <br/>
+<div class="projects-container">
+    <div class="project">
+        <h4>🌟 <a>Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control</a></h4>
+        <img src="/files/img/Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control.png" alt="Smart Inverter based PV STATCOM" />
+        <ul>
+            <li><span class="highlight">System Overview:</span> 10kW PV system operates as PV STATCOM in a 208V L-L distribution network.</li>
+            <li><span class="highlight">Performance Verification: </span> Voltage control analyzed under sudden load changes using MATLAB/Simulink.</li>
+            <li><span class="highlight">Applications:</span> Rapid power exchange within 1-2 cycles, maintaining rated current at reduced voltage.</li>
+            <li><span class="highlight">Design Details:</span> Includes PV STATCOM controller design and Simulink modeling guidelines.</li>
+        </ul>
+    </div>
 
-### Completed in 2022
+  <div class="project">
+        <h4>🌿 <a> Open-source Inverter based plasma generation system for blue hydrogen production </a></h4>
+        <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source Inverter for plasma generation" />
+        <ul>
+            <li><span class="highlight">Application:</span> Powers plasma generator for blue hydrogen production with 230V, 50Hz AC output from 24V battery.</li>
+            <li><span class="highlight">Design Features: </span> Open-source hardware and enclosure with integrated protection mechanisms.</li>
+            <li><span class="highlight">Performance Advantages:</span>  High efficiency, low harmonics, and cost-effective operation.</li>
+        </ul>
+    </div>
+
+
+   <div class="project">
+        <h4>⚡ HVDC Black Start with Grid-Forming Solar Farms</h4>
+        <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
+        <ul>
+            <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations.</li>
+            <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
+            <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
+        </ul>
+    </div>
+
+    ### Completed in 2022
 #### _[AC/off-grid photovoltaic powered open-source ball mill](https://www.sciencedirect.com/science/article/pii/S2468067223000305)_
 ![Open-source Ball Mill](/files/img/ACoff-grid photovoltaic powered open-source ball mill.png) 
 The open-source ball mill is fully customizable and designed to be fabricated with distributed manufacturing. The parametric designs of the main components are 3-D printable on a low-cost readily accessible RepRap-class fused filament 3-D printer, and the electronic parts, bearings, magnets, and balls are provided by a wide-range of of-the-shelf vendors. 
 - The highly-customizable design of ball mill reduces the cost to <US$130 for an AC powered version and <US$315 for a switchable power that enables off-grid operation with a solar module and battery.
 - The open-source ball mill is capable of reducing silicon particle sizes from the millimeter scale down to the nanometer scale.
 - The open-source ball mill is also made with standard dimensions to work effectively and has been demonstrated to grind silicon particles from waste PV modules from 0.8 mm to 7 µm in 18 h. <br/>
+
+   <div class="project">
+        <h4>🌿 <a href="https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169" target="_blank"> Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</a></h4>
+        <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
+        <ul>
+            <li><span class="highlight">Modular Open-Source Design:</span> Customizable for diverse applications.</li>
+            <li><span class="highlight">Simulation Validation:</span> Confirms effectiveness in coordinating PV-battery system.</li>
+        </ul>
+    </div>
+</div>
+
+
 
 #### _Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid_
 ![DAB Inverter](/files/img/Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid.png) 
@@ -214,6 +245,8 @@ The background of this project is to modify the existing DC nano grid by designi
 - Selection of transformer specifications, leakage inductance and conversion ratio in order to achieve ZVS operation for a wide range and reducing switching losses in dual active bridge converter.Hence, this DAB inverter has high efficiency.
 - Designing the filters for the grid connected inverter and integrate it with the DAB.
 - The simulations showed that, the DC capacitor voltage is maintained within the ZVS range in order ensure soft switching with a wide range of phase shift.
+
+
 
 ### Completed in 2021
 #### _[Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective](https://ieeexplore.ieee.org/document/9528159)_ 
