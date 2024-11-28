@@ -66,8 +66,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         </a>
     </div>
 </div>
-
-
+<br> <br/>
 ## Completed Projects
 
 ### Completed in 2024
