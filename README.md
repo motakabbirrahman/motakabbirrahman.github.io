@@ -71,16 +71,78 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 ### Completed in 2024
 
-  <div class="project">
-        <h3>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h3>
-        <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" align="centre" alt="Your image title" width="400"/>
-         <ul>
-            <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
-            <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
-            <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
-            <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
-        </ul>
-    </div>
+<style>
+    .project {
+        margin: 20px auto;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        max-width: 600px;
+        background-color: #f9f9f9;
+        text-align: center;
+    }
+
+    .project h3 {
+        font-size: 1.5rem;
+        margin-bottom: 15px;
+        color: #333;
+    }
+
+    .project a {
+        text-decoration: none;
+        color: #007acc;
+        transition: color 0.3s ease;
+    }
+
+    .project a:hover {
+        color: #0056a3;
+    }
+
+    .project img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 10px;
+        margin: 15px 0;
+        transition: transform 0.3s ease, box-shadow 0.3s ease;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    }
+
+    .project img:hover {
+        transform: scale(1.05);
+        box-shadow: 0 6px 12px rgba(0, 0, 0, 0.2);
+    }
+
+    .project ul {
+        text-align: left;
+        list-style: none;
+        padding: 0;
+        margin: 20px 0;
+    }
+
+    .project ul li {
+        margin-bottom: 10px;
+        font-size: 1rem;
+        color: #555;
+    }
+
+    .project .highlight {
+        font-weight: bold;
+        color: #007acc;
+    }
+</style>
+
+<div class="project">
+    <h3>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h3>
+    <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
+    <ul>
+        <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
+        <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
+        <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
+        <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
+    </ul>
+</div>
+
 
   <div class="project">
         <h3>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h3>
