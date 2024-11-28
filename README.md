@@ -5,14 +5,6 @@ Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electri
 Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability and poverty reduction. 
 His research interests focus on photovoltaic energy systems and power electronics, with a specialization in open-source nanogrid design and control. His work emphasizes modular DC nanogrid development tailored for sustainable, application-specific solutions. He possesses extensive expertise in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with hands-on experience using PSCAD simulations. Additionally, he was actively involved in the development of the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen production and solar-powered plasma-based blue hydrogen generation.
 
-## Education
-**Master of Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
-Western University, London, Ontario, Canada <br/>
-Dissertation: _[Modular Open-Source Photovoltaic-Powered DC Nanogrid for Application-Specific Designs](https://ir.lib.uwo.ca/etd/10346/)._ <br/>
-
-**Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering** (_January 2015 – September 2019_)<br/>
-Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh<br/> 
-Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
 
 ## Work Experience 
 **[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to August, 2024_) <br/>
@@ -35,6 +27,17 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
 - Servo motor driver, vector driver and Inverter control using PLC. 
 - IQC testing of LED Bulb: LED driver testing, LED testing using Spectro-photometer, Life testing. <br/>
 
+
+## Education
+**Master of Engineering Science (MESc.) in Electrical and Computer Engineering** (_September, 2022-August 2024_) <br/>
+Western University, London, Ontario, Canada <br/>
+Dissertation: _[Modular Open-Source Photovoltaic-Powered DC Nanogrid for Application-Specific Designs](https://ir.lib.uwo.ca/etd/10346/)._ <br/>
+
+**Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering** (_January 2015 – September 2019_)<br/>
+Rajshahi University of Engineering & Technology (RUET), Rajshahi-6204, Bangladesh<br/> 
+Dissertation: _Neural network based maximum power point tracking of a photovoltaic system._ <br/>
+
+
 ## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
 **Coding:** _MATLAB, C and Arduino IDE._ <br/>
@@ -47,22 +50,23 @@ _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Banglad
     <div class="video-item">
                 <a href="https://www.youtube.com/watch?v=jj62-u7DhTE" target="_blank">
             <img src="https://img.youtube.com/vi/jj62-u7DhTE/0.jpg" alt="Motakabbir on open source electronics" /><br/>
-                    ** Motakabbir on open source electronics ** <br/>
+                    Motakabbir on open source electronics <br/>
         </a>
     </div>
     <div class="video-item">
                 <a href="https://www.youtube.com/watch?v=hI34Ptq-qJU" target="_blank">
             <img src="https://img.youtube.com/vi/hI34Ptq-qJU/0.jpg" alt="Off-grid Solar System" /><br/>
-                    <a> _Off-grid Solar Photovoltaic 3-phase industrial energy system_ </a>
+                    <a> Off-grid Solar Photovoltaic 3-phase industrial energy system </a>
         </a>
     </div>
     <div class="video-item">
                <a href="https://www.youtube.com/watch?v=8P-wjO4yuKE" target="_blank">
             <img src="https://img.youtube.com/vi/8P-wjO4yuKE/0.jpg" alt="FAST lab contributions" /><br/>
-                    <a>**FAST lab contributions to the Pale Blue Hydrogen Project**</a>
+                    <a> FAST lab contributions to the Pale Blue Hydrogen Project </a>
         </a>
     </div>
 </div>
+
 
 ## Completed Projects
 ### Completed in 2024
@@ -158,6 +162,7 @@ Impacts of frequency and voltage disturbance on an isolated power system caused 
 #### _[Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System](https://ieeexplore.ieee.org/abstract/document/9303531)_
 Nonlinear behavior of photovoltaic system under changing environmental conditions, creates the requirement of designing maximum power point tracker (MPPT). Conventionally perturb and observe (P&O) method and incremental conductance method have drawback of slow operation or low tracking efficiency. However, Artificial Neural Networks (ANN) has been deployed for this purpose, as it can track the optimal operating point (MPP) quickly and accurately based on training data sets. <br/>
 
+
 ## Publications
 **Journals**
 1. **M. M. Rahman**, G. Antonini, and J. M. Pearce, “Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production,” International Journal of Hydrogen Energy, vol. 88, pp. 333–343, Oct. 2024, https://doi.org/10.1016/j.ijhydene.2024.09.199
@@ -171,9 +176,11 @@ Nonlinear behavior of photovoltaic system under changing environmental condition
 1. S. Khan and **M. M. Rahman**, "Design and  Simulation of Solar DC Nano Grid System from Bangladesh Perspective," _2021  International Conference on Automation, Control and Mechatronics for Industry  4.0 (ACMI)_, 2021, pp. 1-6, https://doi.org/10.1109/ACMI53878.2021.9528159
 2. **M. M. Rahman** and M. S. Islam, "Artificial Neural Network Based Maximum Power  Point Tracking of a Photovoltaic System," _2019 3rd International  Conference on Electrical, Computer & Telecommunication Engineering  (ICECTE)_, Rajshahi, Bangladesh, 2019, pp. 117-120, https://doi.org/10.1109/ICECTE48615.2019.9303531 <br/>
 
+
 ## Awards and Honours 
 - Hydro One Scholarship 2024, awarded for the academic achievement and contributions to Power Systems Engineering at Western University.
 - Student of the Year award for the academic year 2018-2019, having attained the highest CGPA of 4.00/4.00 in the fourth year of Bachelor's degree among 120 students at Rajshahi University of Engineering and Technology (RUET).
+
 
 ## Professional and Research Profiles
 <p float="left">
