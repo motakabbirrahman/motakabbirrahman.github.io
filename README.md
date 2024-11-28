@@ -173,7 +173,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 
    <div class="project">
-        <h4>⚡ Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</h4>
+        <h4>🌿 <a href="https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169" target="_blank"> Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</h4>
         <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
         <ul>
             <li><span class="highlight">Modular Open-Source Design:</span> Customizable for diverse applications.</li>
