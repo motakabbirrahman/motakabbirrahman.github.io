@@ -145,9 +145,11 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     <h4> 🛠️  Green Hydrogen Plant: 5kW AEM Stack Powered by 7kW floatovotaic system </h4>
     <img src="/files/img/Large AEM.jpg" align="right" alt="Green Hydrogen Plant" width="350" />
     <ul>
-        <li><span class="highlight">Application:</span> Supplies electricity to up to 20 households within 1 km, addressing areas lacking grid connectivity.</li>
-        <li><span class="highlight">Design Features:</span> Integrates solar PV with buck converters supplying three voltage levels for diverse domestic loads.</li>
-        <li><span class="highlight">Performance & Cost:</span> Demonstrates reliable power distribution; includes detailed cost estimation of the proposed model.</li>
+<li><span class="highlight">System Overview:</span> First-ever 7 kW foam-based Floating Photovoltaic (FPV) system designed for high efficiency and reliability.</li>
+<li><span class="highlight">Power Supply & Monitoring:</span> Operates on a three-phase 400V L-L AC system with integrated real-time energy performance monitoring.</li>
+<li><span class="highlight">Energy Efficiency:</span> Achieves a peak of 86% efficiency with an average of 80%, ensuring optimal energy utilization.</li>
+<li><span class="highlight">Heat Transfer Efficiency:</span> Consistently above 90%, peaking at 98.4% at 65°C, supporting high thermal performance.</li>
+<li><span class="highlight">Gas Purity:</span> Produces 99% pure H2 and 96% pure O2, validated by MicroGC analysis, with minimal contamination due to system fluctuations.</li>
     </ul>
   </div>
 </div>
