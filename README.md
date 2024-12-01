@@ -163,7 +163,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 
    <div class="project">
-        <h4>⚡ HVDC Black Start with Grid-Forming Solar Farms</h4>
+        <h4> 🖥️ HVDC Black Start with Grid-Forming Solar Farms</h4>
         <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
         <ul>
             <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations.</li>
@@ -173,7 +173,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 
    <div class="project">
-        <h4>🌿 <a href="https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169" target="_blank"> Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</a></h4>
+        <h4> 🖥️ <a href="https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169" target="_blank"> Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</a></h4>
         <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
         <ul>
             <li><span class="highlight">Modular Open-Source Design:</span> Customizable for diverse applications.</li>
@@ -187,7 +187,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
     <div class="project">
-        <h4>🌟 Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control</h4>
+        <h4> 🖥️ Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control</h4>
         <img src="/files/img/Utilizing Smart Inverter-based PV STATCOM for dynamic voltage control.png" alt="Smart Inverter based PV STATCOM" />
         <ul>
             <li><span class="highlight">System Overview:</span> 10kW PV system operates as PV STATCOM in a 208V L-L distribution network.</li>
@@ -222,7 +222,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 </div>
 
 <div class="project">
-    <h4>🌿 Design and Control of Dual Active Bridge Converter Cascaded with Inverter</h4>
+    <h4> 🖥️ Design and Control of Dual Active Bridge Converter Cascaded with Inverter</h4>
     <img src="/files/img/Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid.png" alt="DAB Inverter" />
     <ul>
         <li><span class="highlight">Application:</span> Interfaces low-voltage DC nano grid with AC grid, enabling surplus power transfer to the AC network.</li>
@@ -236,7 +236,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
   <div class="project">
-    <h4>🌿 <a href="https://ieeexplore.ieee.org/document/9528159" target="_blank"> Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective </a></h4>
+    <h4> 🖥️ <a href="https://ieeexplore.ieee.org/document/9528159" target="_blank"> Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective </a></h4>
     <img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="right" alt="DC Nano Grid System" width="350" />
     <ul>
         <li><span class="highlight">Application:</span> Supplies electricity to up to 20 households within 1 km, addressing areas lacking grid connectivity.</li>
@@ -250,7 +250,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
   <div class="project">
-    <h4>🌿 <a href="https://abc.us.org/ojs/index.php/ei/article/view/481" target="_blank"> PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition </a></h4>
+    <h4> 🖥️ <a href="https://abc.us.org/ojs/index.php/ei/article/view/481" target="_blank"> PSO and ANN Based Hybrid MPPT Algorithm for Photovoltaic Array under Partial Shading Condition </a></h4>
         <ul>
         <li><span class="highlight">Challenge:</span> Conventional MPPT methods struggle under partial shading due to multiple peaks in the P-V curve.</li>
         <li><span class="highlight">Solution:</span> Combines Particle Swarm Optimization (PSO) with Artificial Neural Networks (ANN) for faster and more accurate tracking.</li>
@@ -263,7 +263,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
   <div class="project">
-    <h4>🌿 <a href="https://abc.us.org/ojs/index.php/ei/article/view/478" target="_blank"> Protection of Power System during Cyber-Attack using Artificial Neural Network </a></h4>
+    <h4> 🖥️ <a href="https://abc.us.org/ojs/index.php/ei/article/view/478" target="_blank"> Protection of Power System during Cyber-Attack using Artificial Neural Network </a></h4>
     <img src="/files/img/Paper_2.jpg" align="right" alt="PSO and ANN Based Hybrid MPPT" width="350" />
         <ul>
         <li><span class="highlight">Application:</span> Focuses on addressing frequency and voltage disturbances in isolated power systems due to cyber-attacks.</li>
@@ -272,7 +272,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
   </div>
 
   <div class="project">
-    <h4>🌿 <a href="https://ieeexplore.ieee.org/abstract/document/9303531" target="_blank"> Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System </a></h4>
+    <h4> 🖥️ <a href="https://ieeexplore.ieee.org/abstract/document/9303531" target="_blank"> Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System </a></h4>
     <img src="/files/img/Ann_based_MPPT.jpg" align="right" alt="ANN MPPT" width="350" />
     <ul>
         <li><span class="highlight">Challenge:</span> Conventional MPPT methods like P&O and incremental conductance are slow and inefficient.</li>
