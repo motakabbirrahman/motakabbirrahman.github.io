@@ -142,7 +142,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
     <div class="project">
-        <h4>🌟 <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
+        <h4> 🛠️ <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
         <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
         <ul>
             <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
@@ -153,7 +153,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 
    <div class="project">
-        <h4>🌿 <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h4>
+        <h4> 🛠️ <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h4>
         <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
         <ul>
             <li><span class="highlight">Energy Optimization:</span> Novel AEM electrolyzer scheduling scheme for H₂ production.</li>
@@ -198,7 +198,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 
   <div class="project">
-        <h4>🌿 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h4>
+        <h4> 🛠️ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h4>
         <img src="/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.png" alt="Open-source Inverter for plasma generation" />
         <ul>
             <li><span class="highlight">Application:</span> Powers plasma generator for blue hydrogen production with 230V, 50Hz AC output from 24V battery.</li>
@@ -212,7 +212,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
   <div class="project">
-    <h4>🌿<a href="https://www.sciencedirect.com/science/article/pii/S2468067223000305" target="_blank"> AC/Off-Grid Photovoltaic Powered Open-Source Ball Mill</a></h4>
+    <h4> 🛠️ <a href="https://www.sciencedirect.com/science/article/pii/S2468067223000305" target="_blank"> AC/Off-Grid Photovoltaic Powered Open-Source Ball Mill</a></h4>
     <img src="/files/img/ACoff-grid photovoltaic powered open-source ball mill.png" alt="Open-source Ball Mill" />
     <ul>
         <li><span class="highlight">Customization:</span> Fully customizable, with parametric designs that are 3D-printable using low-cost RepRap-class printers.</li>
