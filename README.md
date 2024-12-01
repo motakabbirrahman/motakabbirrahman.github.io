@@ -141,6 +141,18 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 </style>
 
 <div class="projects-container">
+  <div class="project">
+    <h4> 🛠️  Green Hydrogen Plant: 5kW AEM Stack Powered by 7kW floatovotaic system </h4>
+    <img src="/files/img/Large AEM.jpg" align="right" alt="Green Hydrogen Plant" width="350" />
+    <ul>
+        <li><span class="highlight">Application:</span> Supplies electricity to up to 20 households within 1 km, addressing areas lacking grid connectivity.</li>
+        <li><span class="highlight">Design Features:</span> Integrates solar PV with buck converters supplying three voltage levels for diverse domestic loads.</li>
+        <li><span class="highlight">Performance & Cost:</span> Demonstrates reliable power distribution; includes detailed cost estimation of the proposed model.</li>
+    </ul>
+  </div>
+</div>
+
+<div class="projects-container">
     <div class="project">
         <h4> 🛠️ <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
         <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
