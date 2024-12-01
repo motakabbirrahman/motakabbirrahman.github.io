@@ -199,7 +199,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
   <div class="project">
         <h4>🌿 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h4>
-        <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source Inverter for plasma generation" />
+        <img src="/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.png" alt="Open-source Inverter for plasma generation" />
         <ul>
             <li><span class="highlight">Application:</span> Powers plasma generator for blue hydrogen production with 230V, 50Hz AC output from 24V battery.</li>
             <li><span class="highlight">Design Features: </span> Open-source hardware and enclosure with integrated protection mechanisms.</li>
