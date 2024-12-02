@@ -165,7 +165,9 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Proven Performance:</span> Validated via simulations and hardware experiments.</li>
         </ul>
     </div>
+ </div>
 
+<div class="projects-container">
    <div class="project">
         <h4> 🛠️ <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h4>
         <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
@@ -175,7 +177,10 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
         </ul>
     </div>
+</div>
 
+
+<div class="projects-container">
    <div class="project">
         <h4> 🖥️ HVDC Black Start with Grid-Forming Solar Farms</h4>
         <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
