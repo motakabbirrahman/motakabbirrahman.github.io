@@ -149,7 +149,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 <li><span class="highlight">Power Supply & Monitoring:</span> Operates on a three-phase 400V L-L AC system with integrated real-time energy performance monitoring.</li>
 <li><span class="highlight">Energy Efficiency:</span> Achieves a peak of 86% efficiency with an average of 80%, ensuring optimal energy utilization.</li>
 <li><span class="highlight">Heat Transfer Efficiency:</span> Consistently above 90%, peaking at 98.4% at 65°C, supporting high thermal performance.</li>
-<li><span class="highlight">Gas Purity:</span> Produces 99% pure H2 and 96% pure O2, validated by MicroGC analysis, with minimal contamination due to system fluctuations.</li>
+<li><span class="highlight">Gas Purity:</span> Produces 99% pure H2 and 96% pure O2, validated by MicroGC analysis.</li>
     </ul>
   </div>
 </div>
@@ -159,10 +159,10 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         <h4> 🛠️ <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
         <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
         <ul>
-            <li><span class="highlight">Customizable:</span> Tailored voltage levels for diverse applications.</li>
+            <li><span class="highlight">Customizable:</span> DC-DC converter based modular hardware adaptable for diverse applications and expandable.</li>
             <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
             <li><span class="highlight">Applications:</span> Ideal for campsites, emergency vehicles, and off-grid homes.</li>
-            <li><span class="highlight">Proven Performance:</span> Validated via simulations and real-world experiments.</li>
+            <li><span class="highlight">Proven Performance:</span> Validated via simulations and hardware experiments.</li>
         </ul>
     </div>
 
