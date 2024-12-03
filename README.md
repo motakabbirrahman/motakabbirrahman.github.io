@@ -256,7 +256,6 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 <div class="projects-container">
   <div class="project">
     <h4> 🖥️ <a href="https://ieeexplore.ieee.org/document/9528159" target="_blank"> Design and Simulation of Solar DC Nano Grid System from Bangladesh Perspective </a></h4>
-    <img src="/files/img/Fig._2._Pictorial_representation_of_a_Nano_grid.jpg" align="right" alt="DC Nano Grid System" width="350" />
     <ul>
         <li><span class="highlight">Application:</span> Supplies electricity to up to 20 households within 1 km, addressing areas lacking grid connectivity.</li>
         <li><span class="highlight">Design Features:</span> Integrates solar PV with buck converters supplying three voltage levels for diverse domestic loads.</li>
