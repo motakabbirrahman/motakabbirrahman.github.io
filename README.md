@@ -191,7 +191,9 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
         </ul>
     </div>
+</div>
 
+ <div class="projects-container">
    <div class="project">
         <h4> 🖥️ <a href="https://jsesd-ojs.csers.ly/ojs/index.php/jsesd/article/view/169" target="_blank"> Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System</a></h4>
         <img src="/files/img/Nanogrid12.png" alt="Modular Open-Source Solar Photovoltaic-Powered DC Nanogrid System" />
@@ -216,8 +218,9 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Design Details:</span> Includes PV STATCOM controller design and Simulink modeling guidelines.</li>
         </ul>
     </div>
-
-  <div class="project">
+  </div>
+  <div class="projects-container">
+    <div class="project">
         <h4> 🛠️ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h4>
         <img src="/files/img/Open-source Inverter based plasma generation system for blue hydrogen production.png" alt="Open-source Inverter for plasma generation" />
         <ul>
@@ -240,8 +243,9 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         <li><span class="highlight">Performance:</span> Reduces silicon particles from millimeter to nanometer scale; demonstrated to grind waste PV silicon from 0.8 mm to 7 µm in 18 hours.</li>
     </ul>
 </div>
-
-<div class="project">
+</div>
+<div class="projects-container">
+  <div class="project">
     <h4> 🖥️ Design and Control of Dual Active Bridge Converter Cascaded with Inverter</h4>
     <img src="/files/img/Design and control of dual active bridge converter cascaded with inverter to interface between low voltage DC grid and AC grid.png" alt="DAB Inverter" />
     <ul>
@@ -288,8 +292,9 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         <li><span class="highlight">Protection Strategy:</span> Introduces a neural network-based method to safeguard power systems during cyber threats.</li>
     </ul>
   </div>
-
-  <div class="project">
+</div>
+ <div class="projects-container">
+   <div class="project">
     <h4> 🖥️ <a href="https://ieeexplore.ieee.org/abstract/document/9303531" target="_blank"> Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System </a></h4>
         <ul>
         <li><span class="highlight">Challenge:</span> Conventional MPPT methods like P&O and incremental conductance are slow and inefficient.</li>
