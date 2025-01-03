@@ -1,5 +1,12 @@
 title: Md Motakabbir Rahman
 description: Power System Engineer - motakabbir71@gmail.com
+<p float="left">
+    <a href="https://www.linkedin.com/in/motakabbir71/"><img src="/files/img/Linkedin.png" alt="LinkedIn" width="60" /><a/>
+    <a href="https://www.appropedia.org/User:Motakabbir"><img src="/files/img/FAST logo.png" alt="FAST" width="60" /><a/>
+    <a href="https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/"><img src="/files/img/BAUET_logo.jpg" alt="BAUET" width="60" /><a/>
+    <a href="https://www.researchgate.net/profile/Md-Motakabbir-Rahman-2"><img src="/files/img/Researchgate.png" alt="ResearchGate" width="60" /><a/>
+    <a href="https://scholar.google.ca/citations?user=tNG_NGgAAAAJ"><img src="/files/img/GoogleScholar.png" alt="GoogleScholar" width="60" /><a/>
+    <a href="https://orcid.org/0000-0001-6619-1282"><img src="/files/img/Orcid.png" alt="ORCiD" width="60" /><a/> <br/><br/>
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
