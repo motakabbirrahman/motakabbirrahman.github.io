@@ -1,5 +1,5 @@
 title: Md Motakabbir Rahman
-description: <br>Power System Engineer</br> <br> Email: motakabbir71@gmail.com </br>
+description: Power System Engineer<br/> Email: motakabbir71@gmail.com <br/>
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
