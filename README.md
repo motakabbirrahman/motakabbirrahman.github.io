@@ -157,7 +157,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 <div class="projects-container">
     <div class="project">
         <h4> 🛠️ <a href="https://www.mdpi.com/2227-7080/12/9/167" target="_blank">Modular Solar DC Nanogrid: Open-Source Hardware Design</a></h4>
-        <img src="/files/img/Open-Source Hardware Design of Modular Solar DC Nanogrid .png" alt="Your image title" />
+        <img src="/files/img/DC Nanogrid_Page1.png" alt="Your image title" />
         <ul>
             <li><span class="highlight">Customizable:</span> DC-DC converter based modular hardware adaptable for diverse applications and expandable.</li>
             <li><span class="highlight">DIY Assembly:</span> Step-by-step guide for easy setup.</li>
