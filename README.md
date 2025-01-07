@@ -136,7 +136,6 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     }
 
     .project .highlight {
-        font-weight: bold;
         color: #000000;
     }
 </style>
