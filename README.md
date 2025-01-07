@@ -170,12 +170,19 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
    <div class="project">
-        <h4> 🛠️ <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h4>
-        <img src="/files/img/DC-DC converter intergrating PV and AEM.png" alt="Open-source DC-DC converter enabling direct integration of solar with AEM electrolyzer" />
+        <h4> 🛠️ Pale Blue Hydrogen Project" </h4>
+        <img src="/files/img/Pale Blue Hydrogen.jpg" alt="Pale Blue Hydrogen Project" />
         <ul>
+            <h5> <a href="https://www.sciencedirect.com/science/article/pii/S0360319924039041" target="_blank">Solar-Powered Green Hydrogen Production with AEM Electrolyzers</a></h5>
             <li><span class="highlight">Energy Optimization:</span> Novel AEM electrolyzer scheduling scheme for H₂ production.</li>
             <li><span class="highlight">High Efficiency:</span> Open-source DC-DC converter ensures 90% performance.</li>
             <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
+        </ul>
+        <ul>
+            <h5> 🛠️ <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h5>
+            <li><span class="highlight">Application:</span> Powers plasma generator for blue hydrogen production with 230V, 50Hz AC output from 24V battery.</li>
+            <li><span class="highlight">Design Features: </span> Open-source hardware and enclosure with integrated protection mechanisms.</li>
+            <li><span class="highlight">Performance Advantages:</span>  High efficiency, low harmonics, and cost-effective operation.</li>
         </ul>
     </div>
 </div>
