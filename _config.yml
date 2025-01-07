@@ -5,7 +5,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme # add this line to the plugins list if you already have one
 google_site_verification: ll49wEfP_Zq3CtHNExb7Ud46uR8TrREioQSCGy1K834
-social_links:
-  email: mailto:motakabbir71@gmail.com
-  facebook: https://www.facebook.com/your-profile
-  linkedin: https://www.linkedin.com/in/your-profile
+
