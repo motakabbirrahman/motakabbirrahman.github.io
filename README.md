@@ -193,7 +193,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 <div class="projects-container">
    <div class="project">
         <h4> 🖥️ HVDC Black Start with Grid-Forming Solar Farms</h4>
-        <img src="/files/img/HVDC black start using GFM.png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
+        <img src="/files/img/Orange Blue and Yellow Minimal Geometry Landscape University Research Poster(1).png" alt="HVDC-VSC black start capability in coordination with grid forming solar farm" />
         <ul>
             <li><span class="highlight">Autonomous Recovery:</span> A sequential energization strategy is proposed for HVDC-connected solar power plants during black start operations.</li>
             <li><span class="highlight">Solar Integration:</span> Utilizes solar farms and HVDC for efficient black start operations.</li>
