@@ -2,7 +2,7 @@
 ## Md Motakabbir Rahman
 <img src="/files/img/DSC08310.jpg" align="right" alt="Your image title" width="250"/>
 Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/). Later he completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at [Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98/100. 
-Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability.<br\> 
+Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability. <br/> 
 His research interests focus on photovoltaic energy systems and power electronics, with a specialization in open-source nanogrid design and control. His work emphasizes modular DC nanogrid development tailored for sustainable, application-specific solutions. He possesses extensive expertise in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with hands-on experience using PSCAD simulations. Additionally, he was actively involved in the development of the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen production and solar-powered plasma-based blue hydrogen generation.
 
 
@@ -40,10 +40,12 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 ## Tecnical Skills
 **PV system optimization software:** _HOMER, SAM, SAMA,PVsyst_ <br/>
-**Coding:** _MATLAB, C and Arduino IDE._ <br/>
-**Power system analysis:** _PSCAD, Simulink._ <br/>
-**PCB design:** _KiCAD_ <br/>
-**3D printing:** _FreeCAD, Onshape_ <br/>
+**Languages:** _MATLAB, C/C++, Python_ <br/>
+**Microcontrollers:** _Arduino, ESP32, STM32_ <br/>
+**PCB design:** _KiCAD, Altium_ <br/>
+**Power system analysis:** _PSCAD, PSS/E, Simulink_ <br/>
+**Power electronics circuit simulation:** _PSIM, Proteous_ <br/>
+**3D printing:** _FreeCAD, Onshape, AutoCAD_ <br/>
 
 <h2>Project Demonstration Videos</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: space-between;">
