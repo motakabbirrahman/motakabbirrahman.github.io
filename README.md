@@ -145,6 +145,22 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 <div class="projects-container">
   <div class="project">
+    <h4> 🛠️  All in one solar power supply for portable oxygen concentrator </h4>
+    <img src="/files/img/Power supply for POC.png" alt="Power supply for POC.png" width="350" />
+    <ul>
+     <li><span class="highlight">5V Power Supply:</span> Features 2 USB ports and 4 wire connectors for versatile power connectivity.</li>
+     <li><span class="highlight">12V and 24V Auxiliary Supply:</span> Provides 4 wire connectors for each voltage level, ensuring compatibility with various devices.</li>
+     <li><span class="highlight">Compressor Connector:</span> Supports a 24V, 15A power supply for robust compressor operation.</li>
+     <li><span class="highlight">Relay Control & Inrush Current Limiter:</span> Includes integrated relay control and inrush current limiting capabilities.</li>
+     <li><span class="highlight">Photovoltaic Panel Input:</span> Compatible with 0–60V panels, supporting a total rated capacity of 400W for efficient solar energy utilization.</li>
+     <li><span class="highlight">Web Dashboard Interface & Data Logger:</span> Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
+    </ul>
+  </div>
+</div>
+
+
+<div class="projects-container">
+  <div class="project">
     <h4> 🛠️  Green Hydrogen Plant: 5kW AEM Stack Powered by 7kW floatovotaic system </h4>
     <img src="/files/img/Large AEM.jpg" align="right" alt="Green Hydrogen Plant" width="350" />
     <ul>
