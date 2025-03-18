@@ -165,7 +165,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     <img src="/files/img/PAR sensor poster.jpg" alt="PAR sensor.png" />
     <ul>
      <li>Low cost (~CAD$70).</li>
-      <li>Allows calibration with any high precise Quantum PAR sensor.</li>
+     <li>Allows calibration with any high precise Quantum PAR sensor.</li>
      <li>Features 1300Ah lithium battery with one week backup for continuous monitoring. </li>
      <li>Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
     </ul>
@@ -180,7 +180,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     <img src="/files/img/Power supply for POC.png" alt="Power supply for POC.png" />
     <ul>
      <li><span class="highlight">Compressor Power Supply:</span> Supports a 24V, 15A power supply for robust compressor operation.</li>
-      <li><span class="highlight">5V, 12V and 24V Auxiliary Supply:</span> Features 2 USB ports (5V) and 4 wire connectors for each voltage level, ensuring compatibility with various devices.</li>
+     <li><span class="highlight">5V, 12V and 24V Auxiliary Supply:</span> Features 2 USB ports (5V) and 4 wire connectors for each voltage level, ensuring compatibility with various devices.</li>
      <li><span class="highlight">Relay Control & Inrush Current Limiter:</span> Includes integrated relay control and inrush current limiting capabilities.</li>
      <li><span class="highlight">Photovoltaic Panel Input:</span> Compatible with 0–60V panels, supporting a total rated capacity of 400W for efficient solar energy utilization.</li>
      <li><span class="highlight">Web Dashboard Interface & Data Logger:</span> Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
