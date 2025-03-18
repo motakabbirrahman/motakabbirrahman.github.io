@@ -86,8 +86,8 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 
 ## Projects Portfolio
-### Completed in 2025
 
+### Completed in 2025
 
 <style>
     .projects-container {
@@ -166,7 +166,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     <ul>
      <li>Low cost (~CAD$70).</li>
      <li>Allows calibration with any high precise Quantum PAR sensor.</li>
-     <li>Features 1300Ah lithium battery with one week backup for continuous monitoring. </li>
+     <li>Features 1300Ah lithium battery with one week backup for continuous monitoring.</li>
      <li>Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
     </ul>
   </div>
