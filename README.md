@@ -84,7 +84,6 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
   </div>
 </div>
 
-
 ## Projects Portfolio
 
 ### Completed in 2025
@@ -334,7 +333,8 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </ul>
   </div>
 </div>
- <div class="projects-container">
+ 
+<div class="projects-container">
    <div class="project">
     <h4> 🖥️ <a href="https://ieeexplore.ieee.org/abstract/document/9303531" target="_blank"> Artificial Neural Network Based Maximum Power Point Tracking of a Photovoltaic System </a></h4>
         <ul>
