@@ -75,6 +75,13 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
       <p> Masterclass in Pale Blue Hydrogen </p>
     </a>
   </div>
+
+   <div style="flex: 1 1 calc(33% - 10px); max-width: 300px; text-align: center; overflow: hidden;">
+    <a href="https://www.youtube.com/watch?v=2GsbuqPno5U" target="_blank" style="text-decoration: none; color: inherit;">
+      <img src="https://i.ytimg.com/vi/2GsbuqPno5U/maxresdefault.jpg?" alt="The FAST Lab at the Carbon Solutions @ Western Conference " style="width: 100%; border-radius: 5px; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.1)';" onmouseout="this.style.transform='scale(1)';" />
+      <p> The FAST Lab at the Carbon Solutions @ Western Conference  </p>
+    </a>
+  </div>
 </div>
 
 
