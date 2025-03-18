@@ -164,15 +164,16 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     <h4> 🛠️  Open-Source PAR Sensor for Enhanced Agricultural and Agrivoltaics' monitoring </h4>
     <img src="/files/img/PAR sensor poster.jpg" alt="PAR sensor.png" />
     <ul>
-     <li><span class="highlight">Low cost (~CAD$70).</li>
-      <li><span class="highlight">Allows calibration with any high precise Quantum PAR sensor.</li>
-     <li><span class="highlight">Features 1300Ah lithium battery with one week backup for continuous monitoring </li>
-     <li><span class="highlight"> Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
+     <li>Low cost (~CAD$70).</li>
+      <li>Allows calibration with any high precise Quantum PAR sensor.</li>
+     <li>Features 1300Ah lithium battery with one week backup for continuous monitoring. </li>
+     <li>Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
     </ul>
   </div>
 </div>
 
 ### Completed in 2024
+
 <div class="projects-container">
   <div class="project">
     <h4> 🛠️  All in one solar power supply for portable oxygen concentrator </h4>
