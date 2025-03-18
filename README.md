@@ -320,12 +320,15 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 ## Publications
 **Journals**
-1. **M. M. Rahman**, G. Antonini, and J. M. Pearce, “Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production,” International Journal of Hydrogen Energy, vol. 88, pp. 333–343, Oct. 2024, https://doi.org/10.1016/j.ijhydene.2024.09.199
-2. **M. M. Rahman**, S. Khan, and J. M. Pearce, “Open-Source Hardware Design of Modular Solar DC Nanogrid,” Technologies, vol. 12, no. 9, Art. no. 9, Sep. 2024, https://doi.org/10.3390/technologies12090167
-3. **M. M. Rahman** and J. Pearce, “Modular Open Source Solar Photovoltaic-Powered DC Nanogrids with Efficient Energy Management System,” Solar Energy and Sustainable Development Journal, vol. 13, no. 1, Art. no. 1, Feb. 2024, https://doi.org/10.51646/jsesd.v13i1.169
-4. Maryam Mottaghi, **Motakabbir Rahman**, Apoorv Kulkarni, Joshua M. Pearce, AC/off-grid photovoltaic powered open-source ball mill,_HardwareX_, Volume 14, 2023,e00423,ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2023.e00423
-5. **Rahman, M. M**., & Islam, M. S. (2020). PSO and ANN Based Hybrid MPPT Algorithm  for Photovoltaic Array under Partial Shading Condition. _Engineering  International_, 8(1), 9-24. https://doi.org/10.18034/ei.v8i1.481
-6. Islam, M. S., Sultana, S., & **Rahman, M. M**.  (2019). Protection of Power System during Cyber-Attack using Artificial  Neural Network. _Engineering International_, 7(2),  73-84. https://doi.org/10.18034/ei.v7i2.478
+1. **Md Motakabbir Rahman**, Wei Zhang, Ying Zheng, Joshua M. Pearce,"Open-source portable solar power supply for plasma generators", HardwareX, Mar. 2025, e00641, ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2025.e00641.
+2. Riya Roy, Giorgio Antonini, Koami S. Hayibo, **Md Motakabbir Rahman**, Sara Khan, Wei Tian, Michael S.H. Boutilier, Wei Zhang, Ying Zheng, Amarjeet Bassi, Joshua M. Pearce,"Comparative techno-environmental analysis of grey, blue, green/yellow and pale-blue hydrogen production", International Journal of Hydrogen Energy, Vol. 116, pp. 200-210, Mar. 2025, https://doi.org/10.1016/j.ijhydene.2025.03.104.
+3.  Antonini, Giorgio, **Md Motakabbir Rahman**, Cameron Brooks, Domenico Santoro, Christopher Muller, Ahmed Al-Omari, Katherine Bell, and Joshua M. Pearce. 2025. "Portable Solar-Integrated Open-Source Chemistry Lab for Water Treatment with Electrolysis" Technologies 13, no. 2: 57. https://doi.org/10.3390/technologies13020057 
+4. **M. M. Rahman**, G. Antonini, and J. M. Pearce, “Open-source DC-DC converter enabling direct integration of solar photovoltaics with anion exchange membrane electrolyzer for green hydrogen production,” International Journal of Hydrogen Energy, vol. 88, pp. 333–343, Oct. 2024, https://doi.org/10.1016/j.ijhydene.2024.09.199
+5. **M. M. Rahman**, S. Khan, and J. M. Pearce, “Open-Source Hardware Design of Modular Solar DC Nanogrid,” Technologies, vol. 12, no. 9, Art. no. 9, Sep. 2024, https://doi.org/10.3390/technologies12090167
+6. **M. M. Rahman** and J. Pearce, “Modular Open Source Solar Photovoltaic-Powered DC Nanogrids with Efficient Energy Management System,” Solar Energy and Sustainable Development Journal, vol. 13, no. 1, Art. no. 1, Feb. 2024, https://doi.org/10.51646/jsesd.v13i1.169
+7. Maryam Mottaghi, **Motakabbir Rahman**, Apoorv Kulkarni, Joshua M. Pearce, AC/off-grid photovoltaic powered open-source ball mill,_HardwareX_, Volume 14, 2023,e00423,ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2023.e00423
+8. **Rahman, M. M**., & Islam, M. S. (2020). PSO and ANN Based Hybrid MPPT Algorithm  for Photovoltaic Array under Partial Shading Condition. _Engineering  International_, 8(1), 9-24. https://doi.org/10.18034/ei.v8i1.481
+9. Islam, M. S., Sultana, S., & **Rahman, M. M**.  (2019). Protection of Power System during Cyber-Attack using Artificial  Neural Network. _Engineering International_, 7(2),  73-84. https://doi.org/10.18034/ei.v7i2.478
    
 **Conference Papers**
 1. S. Khan and **M. M. Rahman**, "Design and  Simulation of Solar DC Nano Grid System from Bangladesh Perspective," _2021  International Conference on Automation, Control and Mechatronics for Industry  4.0 (ACMI)_, 2021, pp. 1-6, https://doi.org/10.1109/ACMI53878.2021.9528159
