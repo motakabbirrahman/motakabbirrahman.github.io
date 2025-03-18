@@ -87,7 +87,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
 
 ## Projects Portfolio
 
-### Completed in 2024
+
 
 <style>
     .projects-container {
@@ -157,6 +157,22 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     }
 </style>
 
+
+### Completed in 2025
+<div class="projects-container">
+  <div class="project">
+    <h4> 🛠️  Open-Source PAR Sensor for Enhanced Agricultural and Agrivoltaics' monitoring </h4>
+    <img src="/files/img/PAR sensor poster.jpg" alt="PAR sensor.png" />
+    <ul>
+     <li><span class="highlight">Low cost (~CAD$70).</li>
+      <li><span class="highlight">Allows calibration with any high precise Quantum PAR sensor.</li>
+     <li><span class="highlight">Features 1300Ah lithium battery with one week backup for continuous monitoring </li>
+     <li><span class="highlight">Web Dashboard Interface & SD Data Logger:</span> Offers a user-friendly web-based interface and SD card for seamless data logging.</li>
+    </ul>
+  </div>
+</div>
+
+### Completed in 2024
 <div class="projects-container">
   <div class="project">
     <h4> 🛠️  All in one solar power supply for portable oxygen concentrator </h4>
@@ -210,7 +226,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Sustainability:</span> Reduces energy waste, enabling green hydrogen production.</li>
         </ul>
         <ul>
-            <h5> 2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> </h5>
+            <h5> 2. <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4855907" target="_blank"> Open-source Inverter based plasma generation system for blue hydrogen production.</a> <h5>
             <li><span class="highlight">Application:</span> Powers plasma generator for blue hydrogen production with 230V, 50Hz AC output from 24V battery.</li>
             <li><span class="highlight">Design Features: </span> Open-source hardware and enclosure with integrated protection mechanisms.</li>
             <li><span class="highlight">Performance Advantages:</span>  High efficiency, low harmonics, and cost-effective operation.</li>
