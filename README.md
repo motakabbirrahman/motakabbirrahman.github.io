@@ -188,7 +188,6 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
   </div>
 </div>
 
-
 <div class="projects-container">
   <div class="project">
     <h4> 🛠️  Green Hydrogen Plant: 5kW AEM Stack Powered by 7kW floatovotaic system </h4>
@@ -233,7 +232,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Performance Advantages:</span>  High efficiency, low harmonics, and cost-effective operation.</li>
         </ul>
     </div>
-</div>
+ </div>
 
 <div class="projects-container">
    <div class="project">
@@ -245,7 +244,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Simulation-Backed:</span> PSCAD-tested for robustness under varying scenarios.</li>
         </ul>
     </div>
-</div>
+ </div>
 
  <div class="projects-container">
    <div class="project">
@@ -256,7 +255,7 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
             <li><span class="highlight">Simulation Validation:</span> Confirms effectiveness in coordinating PV-battery system.</li>
         </ul>
     </div>
-</div>
+ </div>
   
 ### Completed in 2023
 
