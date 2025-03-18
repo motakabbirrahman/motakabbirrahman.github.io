@@ -235,7 +235,6 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
     </div>
 </div>
 
-
 <div class="projects-container">
    <div class="project">
         <h4> 🖥️ HVDC Black Start with Grid-Forming Solar Farms</h4>
@@ -258,7 +257,6 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
         </ul>
     </div>
 </div>
-
   
 ### Completed in 2023
 
@@ -348,8 +346,8 @@ Dissertation: _Neural network based maximum power point tracking of a photovolta
   </div>
 </div>
 
-
 ## Publications
+
 **Journals**
 1. **Md Motakabbir Rahman**, Wei Zhang, Ying Zheng, Joshua M. Pearce,"Open-source portable solar power supply for plasma generators", HardwareX, Mar. 2025, e00641, ISSN 2468-0672, https://doi.org/10.1016/j.ohx.2025.e00641.
 2. Riya Roy, Giorgio Antonini, Koami S. Hayibo, **Md Motakabbir Rahman**, Sara Khan, Wei Tian, Michael S.H. Boutilier, Wei Zhang, Ying Zheng, Amarjeet Bassi, Joshua M. Pearce,"Comparative techno-environmental analysis of grey, blue, green/yellow and pale-blue hydrogen production", International Journal of Hydrogen Energy, Vol. 116, pp. 200-210, Mar. 2025, https://doi.org/10.1016/j.ijhydene.2025.03.104.
