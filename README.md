@@ -4,23 +4,22 @@
 Md Motakabbir Rahman, received his Bachelor of Science (B.Sc.) degree in Electrical and Electronics Engineering from [Rajshahi University of Engineering and Technology](https://www.ruet.ac.bd/), Bangladesh. Since March 2020, he has served as a Lecturer at  [Bangladesh Army University of Engineering and Technology](https://bauet.ac.bd/). Later he completed his Master of Engineering Science (MESc) in Electrical and Computer Engineering at [Western University](https://www.uwo.ca), Canada, graduating with an exceptional grade of 98/100. 
 Md Motakabbir is currently a research assistant with the [Free Appropriate Sustainability Technology (FAST) research group](https://www.appropedia.org/FAST), under the supervision of Professor [J.M.Pearce](https://www.appropedia.org/User:J.M.Pearce), focusing on open-source appropriate technology (OSAT) for sustainability. <br/> 
 
-His research interests focus on photovoltaic energy systems and power electronics, with a specialization in open-source nanogrid design and control. His work emphasizes modular DC nanogrid development tailored for sustainable, application-specific solutions. He possesses extensive expertise in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with hands-on experience using PSCAD simulations. Additionally, he was actively involved in the development of the Pale Blue Hydrogen project, funded by the Independent Electricity System Operator (IESO), focusing on solar-powered AEM electrolyzer-based green hydrogen production and solar-powered plasma-based blue hydrogen generation.
-
+Md Motakabbir Rahman’s research expertise encompasses photovoltaic energy systems and power electronics, with a specialized focus on the design and optimization of modular DC nanogrids for sustainable, application-specific energy solutions. His work has been instrumental in the IESO-funded Pale Blue Hydrogen project, where he contributed to the design and implementation of solar-powered anion exchange membrane (AEM) electrolyzer systems for high-efficiency green hydrogen production. He also has extensive experience in power system modeling, stability analysis, protection system design, and flexible AC transmission systems (FACTS), with a strong background in PSCAD and SIMULINK based simulations for transient studies. His interdisciplinary expertise bridges power electronics, renewable energy integration, power system and advanced control strategies, making significant contributions to the field of sustainable energy systems.
 
 ## Work Experience 
 **[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to August, 2024_) <br/>
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
-- Designed the first-ever modular DC nanogrid for flexible, scalable energy solutions.
-- Contributed to the Pale Blue Hydrogen project focusing on sustainable hydrogen production.
-- Developed various solar-powered devices and systems.<br/>
+- Design and development of first every modular DC nanogrid system.
+- Led off-grid PV system design & deployment, contributing to the IESO-funded Pale Blue Hydrogen project.
+- Designed high-current PCBs for DC-DC converter and developed hardware using Arduino, ESP32, and STM32.<br/>
 
 **[Lecturer](https://bauet.ac.bd/eee/employees/md-motakabbir-rahman/)** (_March, 2020 to Present_) <br/>
 _Bangladesh Army University of Engineering and Technology (BAUET), Natore, Bangladesh_ <br/>
 Department of Electrical and Electronic Engineering
-- Courses offered:Power Electronics, VLSI, Renewable Energy, Electronics I, Microprocessors and Interfacing.
-- Responsibilities: Lab-in-charge (Electronics lab), Student Coordinator, Accreditation Committee Member.
-- Vice President of Automation and Robotics Society <br/>
+-	Taught Power Electronics, VLSI, Renewable Energy, Microprocessors, and Interfacing.
+-	Lab-in-charge (Electronics lab), Student Coordinator, Accreditation Committee Member.
+- Vice president of BAUET Automation and Robotics Society (Sep. 2021 -Sep 2022) <br/>
 
 **Industrial Trainee** (_May 2018 to June 2018_) <br/>
 _Walton Hi-Tech Industries Ltd & Walton Micro-Tech Corporation, Gazipur, Bangladesh_
