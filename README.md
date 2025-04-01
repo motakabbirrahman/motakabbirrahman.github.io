@@ -9,7 +9,7 @@ Md Motakabbir Rahman’s research expertise encompasses photovoltaic energy syst
 **[Graduate Research Assistant](https://www.appropedia.org/User:Motakabbir)** (_September, 2022 to August, 2024_) <br/>
 _Western University, London, Ontario, Canada_ <br/>
 Free Appropriate Sustainability Technology (FAST) Research Group 
-- Design and development of first every modular DC nanogrid system.
+- Design and development of first ever modular DC nanogrid system.
 - Led off-grid PV system design & deployment, contributing to the IESO-funded Pale Blue Hydrogen project.
 - Designed high-current PCBs for DC-DC converter and developed hardware using Arduino, ESP32, and STM32.<br/>
 
